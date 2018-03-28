@@ -1,0 +1,51 @@
+#!/bin/bash
+apt-get update
+wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
+sudo apt-get install apt-transport-https
+echo "deb https://artifacts.elastic.co/packages/5.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-5.x.list
+sudo apt-get update && sudo apt-get install elasticsearch
+systemctl enable elasticsearch.service
+systemctl start elasticsearch.service
+cd /usr/share/elasticsearch
+bin/elasticsearch-plugin install discovery-ec2
+service elasticsearch restart
+cd ~
+cp /etc/elasticsearch/elasticsearch.yml /etc/elasticsearch/elasticsearch.yml.bck
+echo "cluster.name: ttext-es-prod-"`date +%Y-%m-%d` > /etc/elasticsearch/elasticsearch.yml
+echo "node.name:" `ifconfig  | grep 'inet' | awk '{print $2}' | sed 's/addr://'|grep -o -E "10.[0-9]+.[0-9]+.[0-9]+"` >> /etc/elasticsearch/elasticsearch.yml
+echo "network.host: 0.0.0.0" >> /etc/elasticsearch/elasticsearch.yml
+echo "http.port: 3718" >> /etc/elasticsearch/elasticsearch.yml
+echo "discovery.type: ec2" >> /etc/elasticsearch/elasticsearch.yml
+echo "cloud.aws.region: eu-west-1" >> /etc/elasticsearch/elasticsearch.yml
+echo "discovery.ec2.groups: sg-5181b137" >> /etc/elasticsearch/elasticsearch.yml
+echo "cloud.node.auto_attributes: true" >> /etc/elasticsearch/elasticsearch.yml
+service elasticsearch restart
+sed -i '/-Xms2g/c\-Xms22000m' /etc/elasticsearch/jvm.options
+sed -i '/-Xmx2g/c\-Xmx22000m' /etc/elasticsearch/jvm.options
+service elasticsearch restart
+wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
+echo "deb https://artifacts.elastic.co/packages/5.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-5.x.list
+sudo apt-get update && sudo apt-get install kibana
+systemctl enable kibana.service
+systemctl start kibana.service
+service elasticsearch restart
+service kibana restart
+cp /etc/kibana/kibana.yml /etc/kibana/kibana.yml.bck
+echo "server.port: 6100"  > /etc/kibana/kibana.yml
+echo "server.host:" '"'`ifconfig  | grep 'inet' | awk '{print $2}' | sed 's/addr://'|grep -o -E "10.[0-9]+.[0-9]+.[0-9]+"`'"' >> /etc/kibana/kibana.yml
+echo "server.name:" '"ttext-kiban-prod"' >> /etc/kibana/kibana.yml
+echo "elasticsearch.url:" '"'"http://"`ifconfig  | grep 'inet' | awk '{print $2}' | sed 's/addr://'|grep -o -E "10.[0-9]+.[0-9]+.[0-9]+"`":3718"'"' >> /etc/kibana/kibana.yml
+echo "elasticsearch.username: "'"'"elastic"'"' >> /etc/kibana/kibana.yml
+echo "elasticsearch.password: "'"'"changeme"'"' >> /etc/kibana/kibana.yml
+service elasticsearch restart
+service kibana restart
+cd /usr/share/elasticsearch/
+bin/elasticsearch-plugin install x-pack
+service elasticsearch restart
+cd ~
+cd /usr/share/kibana/
+bin/kibana-plugin install x-pack
+service elasticsearch restart
+service kibana restart
+echo "" > /home/ubuntu/esrun.sh
+

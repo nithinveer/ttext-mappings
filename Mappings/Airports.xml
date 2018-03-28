@@ -1,0 +1,90 @@
+<Airports>
+	<AirportGroup Id="-1" Value="Any London">
+		<Airport Id="211" Value="Eurostar direct day" Code="EUD" />
+		<Airport Id="212" Value="Eurostar direct night" Code="EUN" />
+		<Airport Id="213" Value="Eurostar/Paris SNCF" Code="EUP" />
+		<Airport Id="70" Value="London Gatwick" Code="LGW" />
+		<Airport Id="69" Value="London City" Code="LCY" />
+		<Airport Id="71" Value="London Heathrow" Code="LHR" />
+		<Airport Id="72" Value="London Luton" Code="LTN" />
+		<Airport Id="73" Value="Southend" Code="SEN" />
+		<Airport Id="74" Value="London Stansted" Code="STN" />
+	</AirportGroup>
+	<AirportGroup Id="-9" Value="Any East Anglia">
+		<Airport Id="57" Value="Ipswich" Code="IPW" />
+		<Airport Id="73" Value="Southend" Code="SEN" />
+		<Airport Id="74" Value="London Stansted" Code="STN" />
+		<Airport Id="84" Value="Norwich" Code="NWI" />
+	</AirportGroup>
+	<AirportGroup Id="-2" Value="Any Midlands">
+		<Airport Id="14" Value="Birmingham" Code="BHX" />
+		<Airport Id="223" Value="Doncaster Robin Hood" Code="DCH" />
+		<Airport Id="32" Value="Doncaster Sheffield" Code="DSA" />
+		<Airport Id="36" Value="East Midlands" Code="EMA" />
+		<Airport Id="48" Value="Grimsby" Code="GSY" />
+		<Airport Id="55" Value="Humberside" Code="HUY" />
+		<Airport Id="92" Value="Sheffield" Code="SZD" />
+	</AirportGroup>
+	<AirportGroup Id="-10" Value="Any North East">
+		<Airport Id="223" Value="Doncaster Robin Hood" Code="DCH" />
+		<Airport Id="32" Value="Doncaster Sheffield" Code="DSA" />
+		<Airport Id="48" Value="Grimsby" Code="GSY" />
+		<Airport Id="55" Value="Humberside" Code="HUY" />
+		<Airport Id="80" Value="Newcastle" Code="NCL" />
+		<Airport Id="92" Value="Sheffield" Code="SZD" />
+	</AirportGroup>
+	<AirportGroup Id="-11" Value="Any North West">
+		<Airport Id="16" Value="Blackpool" Code="BLK" />
+		<Airport Id="26" Value="Carlisle" Code="CAX" />
+		<Airport Id="27" Value="Chester" Code="CEG" />
+		<Airport Id="59" Value="Isle Of Man" Code="IOM" />
+		<Airport Id="66" Value="Leeds/Bradford" Code="LBA" />
+		<Airport Id="67" Value="Liverpool" Code="LPL" />
+		<Airport Id="77" Value="Manchester" Code="MAN" />
+	</AirportGroup>
+	<AirportGroup Id="-7" Value="Any Northern Ireland">
+		<Airport Id="10" Value="Belfast-intl" Code="BFS" />
+		<Airport Id="9" Value="Belfast-city" Code="BHD" />
+		<Airport Id="75" Value="Londonderry" Code="LDY" />
+		<Airport Id="34" Value="Dublin" Code="DUB" />
+	</AirportGroup>
+	<AirportGroup Id="-3" Value="Any Scotland">
+		<Airport Id="4" Value="Aberdeen" Code="ABZ" />
+		<Airport Id="35" Value="Dundee" Code="DND" />
+		<Airport Id="37" Value="Edinburgh" Code="EDI" />
+		<Airport Id="45" Value="Glasgow" Code="GLA" />
+		<Airport Id="46" Value="Prestwick" Code="PIK" />
+		<Airport Id="56" Value="Inverness" Code="INV" />
+		<Airport Id="58" Value="Islay" Code="ILY" />
+		<Airport Id="60" Value="Isle Of Skye" Code="SKL" />
+		<Airport Id="79" Value="Mull" Code="ULL" />
+		<Airport Id="93" Value="Shetland Islands" Code="SDZ" />
+	</AirportGroup>
+	<AirportGroup Id="-12" Value="Any South East">
+		<Airport Id="218" Value="Eurostar Ashford" Code="EUA" />
+		<Airport Id="211" Value="Eurostar direct day" Code="EUD" />
+		<Airport Id="212" Value="Eurostar direct night" Code="EUN" />
+		<Airport Id="213" Value="Eurostar/Paris SNCF" Code="EUP" />
+		<Airport Id="219" Value="Folkestone Eurotunnel" Code="FET" />
+		<Airport Id="49" Value="Guernsey" Code="GCI" />
+		<Airport Id="63" Value="Jersey" Code="JER" />
+		<Airport Id="70" Value="London Gatwick" Code="LGW" />
+		<Airport Id="215" Value="London/Dover sea train" Code="LDT" />
+		<Airport Id="69" Value="London City" Code="LCY" />
+		<Airport Id="71" Value="London Heathrow" Code="LHR" />
+		<Airport Id="72" Value="London Luton" Code="LTN" />
+		<Airport Id="73" Value="Southend" Code="SEN" />
+		<Airport Id="74" Value="London Stansted" Code="STN" />
+		<Airport Id="89" Value="Portsmouth" Code="PME" />
+		<Airport Id="95" Value="Southampton" Code="SOU" />
+	</AirportGroup>
+	<AirportGroup Id="-13" Value="Any South West &#38; Wales">
+		<Airport Id="17" Value="Bournemouth" Code="BOH" />
+		<Airport Id="19" Value="Bristol" Code="BRS" />
+		<Airport Id="25" Value="Cardiff" Code="CWL" />
+		<Airport Id="39" Value="Exeter" Code="EXT" />
+		<Airport Id="81" Value="Newquay" Code="NQY" />
+		<Airport Id="88" Value="Plymouth" Code="PLH" />
+		<Airport Id="98" Value="Swansea" Code="SWS" />
+	</AirportGroup>
+</Airports>

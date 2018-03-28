@@ -1,0 +1,11667 @@
+World	1
+Europe	13
+France	5
+Gironde	841
+Bordeaux	842
+World	1
+Europe	13
+France	5
+Pas de Calais	843
+Boulogne sur mer	844
+World	1
+Europe	13
+France	5
+Pas de Calais	843
+Calais	845
+World	1
+Europe	13
+France	5
+Isere	846
+Grenoble	847
+World	1
+Europe	13
+France	5
+Isere	846
+Val d'Isere	1115
+World	1
+Europe	13
+France	5
+Seine Maritime	848
+Le Havre	849
+World	1
+Europe	13
+France	5
+Seine Maritime	848
+Rouen	862
+World	1
+Europe	13
+France	5
+Rhone	850
+Lyon	851
+World	1
+Europe	13
+France	5
+Nord	852
+Lille	853
+World	1
+Europe	13
+France	5
+Bouches Du Rhone	854
+Marseille	855
+World	1
+Europe	13
+France	5
+Loire Atlantique	856
+Nantes	857
+World	1
+Europe	13
+France	5
+Alpes Maritimes	858
+Nice	859
+World	1
+Europe	13
+France	5
+Alpes Maritimes	858
+Cannes	1233
+World	1
+Europe	13
+France	5
+Alpes Maritimes	858
+Isola 2000	1425
+World	1
+Europe	13
+France	5
+Alpes Maritimes	858
+Opio	2547
+World	1
+Europe	13
+France	5
+Ile de France	860
+Paris	861
+World	1
+Europe	13
+France	5
+Ile de France	860
+Disneyland(R) Resort Paris	2110
+World	1
+Europe	13
+France	5
+Ile de France	860
+Chanteloup en Brie	2182
+World	1
+Europe	13
+France	5
+Ile de France	860
+Seine-et-Marne	2183
+World	1
+Europe	13
+France	5
+Ile de France	860
+Lognes	2184
+World	1
+Europe	13
+France	5
+Ile de France	860
+Bussy St Georges	2185
+World	1
+Europe	13
+France	5
+Alsace	863
+Strasbourg	864
+World	1
+Europe	13
+France	5
+Alsace	863
+Mulhouse	2542
+World	1
+Europe	13
+France	5
+Haute Garonne	867
+Toulouse	868
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Val Thorens	1064
+Orelle	3380
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Les Menuires	1065
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Meribel	1066
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Mottaret	1067
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Brides-les-Bains	1068
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Courchevel	1069
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+La Tania	1070
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+St Martin de Belleville	1909
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Reberty	1961
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Courchevel 1850	2694
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Courchevel 1550	2695
+World	1
+Europe	13
+France	5
+Trois Vallees	1063
+Courchevel 1650	2696
+World	1
+Europe	13
+France	5
+Arc Mountains	1071
+Les Arcs 1950	1072
+World	1
+Europe	13
+France	5
+Arc Mountains	1071
+Les Arcs 2000	2700
+World	1
+Europe	13
+France	5
+Grandes Rousses/Southern Alps	1073
+Alpe d'Huez	1074
+World	1
+Europe	13
+France	5
+Grandes Rousses/Southern Alps	1073
+Auris en Oisans	1303
+World	1
+Europe	13
+France	5
+Grandes Rousses/Southern Alps	1073
+Le Chatelard	1306
+World	1
+Europe	13
+France	5
+Grandes Rousses/Southern Alps	1073
+Oz en Oisans	1307
+World	1
+Europe	13
+France	5
+Grandes Rousses/Southern Alps	1073
+Vaujany	1309
+World	1
+Europe	13
+France	5
+Grandes Rousses/Southern Alps	1073
+Villard - Reculas	1310
+World	1
+Europe	13
+France	5
+Dauphine/Southern Alps	1075
+Les Deux Alpes	1076
+World	1
+Europe	13
+France	5
+Southern Alps	1077
+Serre Chevalier	1078
+World	1
+Europe	13
+France	5
+Southern Alps	1077
+Risoul	1079
+World	1
+Europe	13
+France	5
+Southern Alps	1077
+Vars	1271
+World	1
+Europe	13
+France	5
+Southern Alps	1077
+Vars Sainte Marie	1272
+World	1
+Europe	13
+France	5
+Southern Alps	1077
+La Grave	1300
+World	1
+Europe	13
+France	5
+Southern Alps	1077
+Briancon	1302
+World	1
+Europe	13
+France	5
+Italian Border/Milky Way	1080
+Montgenevre	1081
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Avoriaz	1083
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Morzine	1084
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+La Clusaz	1168
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Le Grand Bonnard	1249
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+St Jean d'Aulps	1336
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Abondance	1337
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Champery	1338
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Champoussin	1339
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+La Chapelle d'Abondance	1340
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Chatel	1341
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Les Crosets	1342
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Les Gets	1343
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Montriond	1344
+World	1
+Europe	13
+France	5
+Portes du Soleil FR	1082
+Torgon	1346
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Chamonix	1086
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Argentiere	1087
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Les Contamines	1193
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Les Houches	1357
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Megeve	1358
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+St Gervais	1359
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Le Tour	1360
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Combloux	1361
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Le Bettex	1362
+World	1
+Europe	13
+France	5
+Mont Blanc	1085
+Les Saisies	1363
+World	1
+Europe	13
+France	5
+French Alps	1107
+La Joue du Loup	3396
+World	1
+Europe	13
+France	5
+French Alps	1107
+La Plagne 1800	1108
+World	1
+Europe	13
+France	5
+French Alps	1107
+Tignes	1112
+World	1
+Europe	13
+France	5
+French Alps	1107
+Le Corbier	1142
+World	1
+Europe	13
+France	5
+French Alps	1107
+Valmorel	1145
+World	1
+Europe	13
+France	5
+French Alps	1107
+Pra Loup	1152
+World	1
+Europe	13
+France	5
+French Alps	1107
+Valloire	1169
+World	1
+Europe	13
+France	5
+French Alps	1107
+Les Orres	1176
+World	1
+Europe	13
+France	5
+French Alps	1107
+Crest Voland	1178
+World	1
+Europe	13
+France	5
+French Alps	1107
+L'Espace Killy	1181
+World	1
+Europe	13
+France	5
+French Alps	1107
+Puy St Vincent	1301
+World	1
+Europe	13
+France	5
+French Alps	1107
+Sainte Foy	1319
+World	1
+Europe	13
+France	5
+French Alps	1107
+St Francois Longchamp	1329
+World	1
+Europe	13
+France	5
+French Alps	1107
+Doucy Combouleviere	1330
+World	1
+Europe	13
+France	5
+French Alps	1107
+La Rosiere	1449
+World	1
+Europe	13
+France	5
+French Alps	1107
+Belle Plagne	1923
+World	1
+Europe	13
+France	5
+French Alps	1107
+Les Coches	1943
+World	1
+Europe	13
+France	5
+French Alps	1107
+Valmeinier	2511
+World	1
+Europe	13
+France	5
+French Alps	1107
+La Plagne	2577
+World	1
+Europe	13
+France	5
+French Alps	1107
+Val Cenis	2705
+World	1
+Europe	13
+France	5
+French Alps	1107
+Evian Les Bains	3062
+World	1
+Europe	13
+France	5
+French Alps	1107
+Superdevoluy	3397
+World	1
+Europe	13
+France	5
+French Islands	1219
+Corsica	1220
+Ajaccio	1777
+World	1
+Europe	13
+France	5
+French Islands	1219
+Corsica	1220
+Bastia	1780
+World	1
+Europe	13
+France	5
+French Islands	1219
+Corsica	1220
+Calvi	1783
+World	1
+Europe	13
+France	5
+Grande Massif	1294
+Sixt	1295
+World	1
+Europe	13
+France	5
+Grande Massif	1294
+Flaine	1296
+World	1
+Europe	13
+France	5
+Grande Massif	1294
+Les Carroz	1297
+World	1
+Europe	13
+France	5
+Grande Massif	1294
+Samoens	1298
+World	1
+Europe	13
+France	5
+Grande Massif	1294
+Morillon	1299
+World	1
+Europe	13
+France	5
+French Pyrenees	1423
+Bareges	1424
+World	1
+Europe	13
+France	5
+French Pyrenees	1423
+St Lary	2116
+World	1
+Europe	13
+France	5
+Pays Basque	1504
+Biarritz	1505
+World	1
+Europe	13
+France	5
+Rhone-Alpes	1932
+Chambery	1933
+World	1
+Europe	13
+France	5
+Rhone-Alpes	1932
+Notre Dame de Bellecombe	1947
+World	1
+Europe	13
+France	5
+Rhone-Alpes	1932
+Les Arcs 1800	1949
+World	1
+Europe	13
+France	5
+Rhone-Alpes	1932
+St Jean d'Arves	2457
+World	1
+Europe	13
+France	5
+Rhone-Alpes	1932
+St Sorlin d'Arves	2508
+World	1
+Europe	13
+France	5
+Auvergne	2256
+Clermont-Ferrand	2257
+World	1
+Europe	13
+France	5
+Bretagne	2273
+Brest	2274
+World	1
+Europe	13
+France	5
+Bretagne	2273
+Lorient	2525
+World	1
+Europe	13
+France	5
+Vaucluse	2298
+Avignon	2299
+World	1
+Europe	13
+France	5
+Vaucluse	2298
+Montpellier	2540
+World	1
+Europe	13
+France	5
+Aquitaine	2339
+Pau	2340
+World	1
+Europe	13
+France	5
+Brittany	2349
+World	1
+Europe	13
+France	5
+Limousin	2520
+Limoges	2521
+World	1
+Europe	13
+France	5
+Midi Pyrenees	2575
+Ax Les Thermes	2576
+World	1
+Europe	13
+France	5
+Gresse En Vercours	2583
+World	1
+Europe	13
+France	5
+Les Arcs	2697
+World	1
+Europe	13
+France	5
+Languedoc-Roussillon	3132
+World	1
+Europe	13
+France	5
+Normandy	3149
+World	1
+Europe	13
+France	5
+Provence	3171
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Arona	3277
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+La Orotava	3317
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Granadilla De Abona	3318
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Guimar	3319
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Garachico	3320
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+San Isidro De Abona	3321
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Los Realejos	3322
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Chayofa	3323
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Buenavista Del Norte	3324
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Guia De Isora	3325
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Los Gigantes	88
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Puerto de la Cruz	90
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Puerto de Santiago	91
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Playa Paraiso	94
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Santa Cruz de Tenerife	1480
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Costa Adeje	2393
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Golf Del Sur	2553
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Costa Del Silencio	2589
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Los Cristianos	2629
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+La Caleta	2637
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Las Caletillas	2640
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Playa de Fanabe	2742
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Playa de las Americas	2781
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+El Medano	2835
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Playa Torviscas	2836
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Santa Ursula	2837
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Santiago Del Teide	2838
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Playa de la Arena	2840
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Callao Salvaje	2874
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+San Miguel de Abona	3045
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Tenerife	50
+Las Galletas	3262
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Salobre	3375
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Amadores	3388
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Maspalomas	95
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Playa del Ingles	96
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Puerto Mogan	97
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Puerto Rico - Gran Canaria	98
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Las Palmas	1208
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+San Augustin	2625
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Playa de Taurito	2641
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Playa de Amadores	2708
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Meloneras	2709
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Sonnenland	2765
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+San Mateo	2766
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Arguineguin	2767
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Bahia Feliz	2768
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Las Canteras	2769
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Patalavaca	2770
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Playa Del Aguila	2771
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Playa Del Cura	2772
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+Campo International	2811
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Gran Canaria	51
+San Agustin - Gran Canaria	3389
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Costa Teguise	99
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Playa Blanca	100
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Puerto del Carmen	101
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Playa de los Pocillos	102
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Matagorda	1104
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Arrecife	1472
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Puerto Calero	2617
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Tias	2744
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+Costa Calero	2764
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Lanzarote	52
+El Cable	2773
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Corralejo	103
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Caleta de Fuste	105
+Costa Caleta	2889
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Costa Antigua	2588
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Antigua (Fuerteventura)	2761
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+El Cotillo	2774
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Playa Barca	2775
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Costa Calma	2777
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+El Castillo	2807
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Nuevo Horizonte	2808
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Playa de Esquinzo	2809
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Tarajalejo	2810
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Jandia	2929
+Playa de Jandia	2930
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Jandia	2929
+Morro Jable	2931
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Fuerteventura	53
+Las Playitas	2963
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+La Palma	1459
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+La Gomera	2713
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+El Hierro	3121
+World	1
+Europe	13
+Spain	15
+Canary Islands	25
+Graciosa	3127
+World	1
+Europe	13
+Spain	15
+Costa de Almeria	26
+Aguadulce	106
+World	1
+Europe	13
+Spain	15
+Costa de Almeria	26
+Almerimar	107
+World	1
+Europe	13
+Spain	15
+Costa de Almeria	26
+Mojacar	108
+World	1
+Europe	13
+Spain	15
+Costa de Almeria	26
+Roquetas de Mar	109
+World	1
+Europe	13
+Spain	15
+Costa de Almeria	26
+Adra	2782
+World	1
+Europe	13
+Spain	15
+Costa de Almeria	26
+Vera	2783
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Playa de Gandia	3267
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Santa Pola	3268
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Altea	3269
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Guardamar Del Segura	3270
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+La Manga Del Mar Menor	3271
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Villajoyosa	3272
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Benidorm	110
+Playa Poniente	2701
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Benidorm	110
+Playa Levante	2702
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Torrevieja	111
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Alicante	755
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Albir	1236
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Cala Finestrat	1951
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Denia	2088
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Alfaz del Pi	2794
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Calpe	2795
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Campello	2796
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Javea	2797
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Pego	2798
+World	1
+Europe	13
+Spain	15
+Costa Blanca	27
+Roses	2799
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Empuriabrava	3287
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Palamos	3288
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Viladrau	3289
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Cadaques	3290
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Playa de Pals	3291
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Llafranc	3292
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Santa Coloma De Farners	3293
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Sant Feliu	3294
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+S'Agaro	3295
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Blanes	112
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Calella	113
+Samara	1772
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Lloret de Mar	114
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Malgrat de Mar	115
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Pineda de Mar	116
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Tossa de Mar	117
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Gerona	745
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+L'Estartit	1199
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Santa Susanna	2086
+World	1
+Europe	13
+Spain	15
+Costa Brava	28
+Playa de Aro	3032
+World	1
+Europe	13
+Spain	15
+Costa Dorada	29
+Salou	118
+Universal Mediterranea (TM)	2581
+World	1
+Europe	13
+Spain	15
+Costa Dorada	29
+Salou	118
+PortAventura	2752
+World	1
+Europe	13
+Spain	15
+Costa Dorada	29
+Cambrils	119
+World	1
+Europe	13
+Spain	15
+Costa Dorada	29
+La Pineda	120
+World	1
+Europe	13
+Spain	15
+Costa Dorada	29
+Reus	746
+World	1
+Europe	13
+Spain	15
+Costa Dorada	29
+Cap Salou	2584
+World	1
+Europe	13
+Spain	15
+Costa Dorada	29
+L'Ametlla de Mar	2803
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Estepona	121
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Fuengirola	122
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Marbella	123
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Nerja	124
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Torremolinos	125
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Benalmadena	126
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Malaga	744
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Mijas	2138
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Algeciras	2177
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Alhaurin el Grande	2630
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Torrox	2710
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Puerto Banus	2743
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Almunecar	2800
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Miraflores	2801
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Torre del Mar	2802
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+Ronda	3242
+World	1
+Europe	13
+Spain	15
+Costa del Sol	30
+San Pedro De Alcantara	3243
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Formentera	54
+La Sabina	127
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Sa Caleta	3390
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Cala Llonga	128
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Es Cana	129
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Figueretas	130
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Playa d'en Bossa	131
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Port d'es Torrent	132
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+San Antonio-Ibiza	133
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Santa Eulalia	134
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+S'Argamassa	135
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Portinatx	1955
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Es Calo Des Moro	2813
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+San Agustin	2814
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Talamanca	2946
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Cala Vadella	2947
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+San Jose-Ibiza	2948
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Puerto San Miguel	2949
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+San Antonio Bay-Ibiza	3255
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Cala Tarida	3256
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Es Figueral	3257
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Cala Llenya	3258
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Cala Gracio	3259
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Cala San Vicente - Ibiza	3260
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Ibiza Town	3261
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Ibiza	55
+Cala Bou	3377
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Toro-Calvia, El	3378
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Arenal	136
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Santa Ponsa	137
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Alcudia	138
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Millor	139
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+C'an Pastilla	140
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala D'Or	141
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Porto Colom	142
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Marsal	143
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Puerto Pollensa	144
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Vinas	145
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Palma Nova	146
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Magaluf	147
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Mesquida	148
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala San Vicente	150
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Camp de Mar	151
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+C'an Picafort	152
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Illetas	153
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Palma	154
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Puerto de Soller	156
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+S'Illot	157
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Porto Cristo	1784
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Sa Coma	2070
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Puig De Ross	2081
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Bona	2127
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Playa de Palma	2161
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Mayor	2394
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Mandia	2567
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Bahia de Pollensa	2618
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Paguera	2687
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Ratjada	2763
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Caimari	2817
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Blava	2818
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Mondrago	2819
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Capdepera	2820
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Costa d'en Blanes	2821
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Lloseta	2822
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Playa de Muro	2823
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Portals Nous	2824
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Puerto Andratx	2825
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Son Caliu	2826
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Torrenova	2827
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Valldemosa	2828
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Egos	2903
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Pollensa	2913
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+El Arenal	3237
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cabo Blanco	3244
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Barca	3245
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Cala Santanyi	3246
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Canyamel	3247
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Colonia de Sant Jordi	3248
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Deya	3249
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+El Toro	3250
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Estellencs	3251
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Porto Petro	3252
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Soller	3253
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Son Servera	3254
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Port Adriano	3370
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Majorca	56
+Calas de Mallorca	149
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cap D'Artruix	3379
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Arenal d'en Castell	158
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cala Galdana	159
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cala'n Bosch	160
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cala'n Forcat	161
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cala'n Porter	162
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Ciutadella	163
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cala'n Blanes	164
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Mahon	165
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Playa de Fornells	166
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Punta Prima	167
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Santo Tomas	168
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Son Bou	169
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cala Blanca	1150
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Ciudadela	2552
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Son Parc	2559
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+S'Algar	2573
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Cala Alcaufar	2592
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Es Castell	2593
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Binibeca	2633
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Es Canutells	2830
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Son Xoriguer	2891
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Binixica	2900
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Playa Santandria	2917
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+Son Saura	2950
+World	1
+Europe	13
+Spain	15
+Balearic Islands	31
+Menorca	57
+San Luis	2951
+World	1
+Europe	13
+Spain	15
+Gibraltar	32
+World	1
+Europe	13
+Spain	15
+Catalonia	952
+Calafell	3307
+World	1
+Europe	13
+Spain	15
+Catalonia	952
+L'Ampolla	3308
+World	1
+Europe	13
+Spain	15
+Catalonia	952
+Coma Ruga	3309
+World	1
+Europe	13
+Spain	15
+Catalonia	952
+Barcelona	953
+World	1
+Europe	13
+Spain	15
+Catalonia	952
+Tarragona	1421
+World	1
+Europe	13
+Spain	15
+Catalonia	952
+Sitges	2154
+World	1
+Europe	13
+Spain	15
+Basque Region	954
+Bilbao	955
+World	1
+Europe	13
+Spain	15
+Basque Region	954
+San Sebastian	3151
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Huelva	3282
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Seville	957
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Sierra Nevada	976
+Pradollano	3106
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Sol y Nieve	977
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Almeria	1934
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Jerez De La Frontera	2126
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Cordoba	2254
+World	1
+Europe	13
+Spain	15
+Andalucia	956
+Islantilla	2595
+World	1
+Europe	13
+Spain	15
+Madrid	1100
+World	1
+Europe	13
+Spain	15
+Valencia	1101
+World	1
+Europe	13
+Spain	15
+Murcia	1195
+Los Alcazares	3273
+World	1
+Europe	13
+Spain	15
+Murcia	1195
+La Manga	1863
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Baqueira Beret	1440
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Alp 2500	1492
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+La Molina	2113
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Cerler	3099
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Formigal	3100
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Panticosa	3101
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Javalambre	3102
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Valdelinares	3103
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Candanchu	3104
+World	1
+Europe	13
+Spain	15
+Spanish Pyrenees	1439
+Masella	3105
+World	1
+Europe	13
+Spain	15
+Alpujarra	1594
+World	1
+Europe	13
+Spain	15
+Granada	1977
+Poniente	1978
+World	1
+Europe	13
+Spain	15
+Costa De La Luz	2083
+Isla Canela	2594
+World	1
+Europe	13
+Spain	15
+Costa De La Luz	2083
+Isla Cristina	2884
+World	1
+Europe	13
+Spain	15
+Cantabria	3152
+Santander	3153
+World	1
+Europe	13
+Spain	15
+Asturias	3154
+Oviedo	3155
+World	1
+Europe	13
+Spain	15
+Asturias	3154
+Gijon	3156
+World	1
+Europe	13
+Spain	15
+Galicia	3157
+A Coruna	3158
+World	1
+Europe	13
+Spain	15
+Galicia	3157
+Santiago de Compostela	3159
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Gerakini	3303
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Nikiti	3304
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Paliouri	3305
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Hanioti	177
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Kalithea (Halkidiki)	178
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Kriopigi	179
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Ouranopolis	180
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Pefkohori	181
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Polichrono	182
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Thessaloniki	1241
+Kassandra	3214
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Thessaloniki	1241
+Sithonia	3215
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Fourka	2569
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Neos Marmaras	2582
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Afitos	2620
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Nea Moudania	2722
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Sani Resort	2723
+World	1
+Europe	13
+Greece	16
+Halkidiki	33
+Possidi	2812
+World	1
+Europe	13
+Greece	16
+Epirus	34
+Parga	183
+Lichnos	2730
+World	1
+Europe	13
+Greece	16
+Epirus	34
+Parga	183
+Valtos	2731
+World	1
+Europe	13
+Greece	16
+Epirus	34
+Sivota	1676
+World	1
+Europe	13
+Greece	16
+Peloponnese	35
+Stoupa	184
+World	1
+Europe	13
+Greece	16
+Peloponnese	35
+Tolon	185
+World	1
+Europe	13
+Greece	16
+Peloponnese	35
+Kalamata	1196
+World	1
+Europe	13
+Greece	16
+Peloponnese	35
+Chrani	2079
+World	1
+Europe	13
+Greece	16
+Peloponnese	35
+Finikounda	2080
+World	1
+Europe	13
+Greece	16
+Peloponnese	35
+Messinia	3367
+World	1
+Europe	13
+Greece	16
+Attica	36
+Athens	186
+World	1
+Europe	13
+Greece	16
+Attica	36
+Nea Makri	187
+World	1
+Europe	13
+Greece	16
+Attica	36
+Glyfada	188
+World	1
+Europe	13
+Greece	16
+Attica	36
+Vouliagmeni	189
+World	1
+Europe	13
+Greece	16
+Attica	36
+Preveza	1160
+World	1
+Europe	13
+Greece	16
+Saronic Islands	37
+Aegina	59
+Aegina Town	190
+World	1
+Europe	13
+Greece	16
+Saronic Islands	37
+Aegina	59
+Aghia Marina	191
+World	1
+Europe	13
+Greece	16
+Saronic Islands	37
+Poros Island	60
+World	1
+Europe	13
+Greece	16
+Saronic Islands	37
+Hydra	61
+World	1
+Europe	13
+Greece	16
+Saronic Islands	37
+Spetses	62
+World	1
+Europe	13
+Greece	16
+Saronic Islands	37
+Agistri	1211
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skopelos	63
+Skopelos Town	192
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Skiathos Town	193
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Achladies	194
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Aghia Paraskevi	195
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Kanapitsa	196
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Koukounaries	197
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Troulos	198
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Kolios	199
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Vasilias	200
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Megali Ammos	201
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Katsarou	2734
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Skiathos	64
+Vromolimnos	3213
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Alonissos	1596
+World	1
+Europe	13
+Greece	16
+Sporades Islands	38
+Evia	1619
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Fiskardo	3306
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Aghia Efimia	202
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Argostoli	203
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Lassi	204
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Lixouri	205
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Lourdas	206
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Poros	207
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Skala	208
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Katelios	209
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Sami	210
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Karavados	2556
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Avithos	2600
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Scala	2603
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Svoronata	2604
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Lakithra	2624
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Kefalonia	65
+Spartia	3204
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Zante Town	3298
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Alikes	211
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Argassi	212
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Kalamaki	213
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Laganas	214
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Tsilivi	215
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Zakynthos	216
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Vassilikos	217
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Alykes	2550
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Alykanas	2564
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Agios Sostis	2622
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Amoudi	3218
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Kampi	3219
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Kypseli	3220
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Lithakia	3221
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Zante	66
+Tragaki	3222
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Lefkas	67
+Lygia	218
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Lefkas	67
+Nidri	219
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Lefkas	67
+Agios Nikitas	220
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Lefkas	67
+Vassiliki	221
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Lefkas	67
+Perigiali	222
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Lefkas	67
+Nikiana	2727
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Liapades	3274
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Acharavi	262
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Agios Georgios	263
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Agios Gordios	264
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Agios Stefanos-Corfu	265
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Arillas	266
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Barbati	267
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Benitses	268
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Dassia	269
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Ipsos	270
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Kassiopi	271
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Kavos	272
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Ermones	273
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Glyfada, Corfu	274
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Gouvia	275
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Kanoni	276
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Komeno	277
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Kontokali	278
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Messonghi	279
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Moraitika	280
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Nissaki	281
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Paleokastritsa	282
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Perama	283
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Roda	284
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Sidari	285
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Kerkyra	2082
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+St Georges-Corfu	2087
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Aghios Ioannis	2111
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Pyrgi	2555
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Aspro Kavos	2566
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Sinies	2918
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Sinarades	2962
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+St Spiridon	3041
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Corfu Town	3049
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Kontogialos	3197
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Lefkimi	3198
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Corfu	79
+Kalami	3407
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Antipaxos	1217
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Paxos	1506
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Meganissi	1620
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Lefkada	1701
+World	1
+Europe	13
+Greece	16
+Ionian Islands	39
+Ithaca	2598
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Megali Ammos	3296
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Houlakia	3297
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Mykonos Town	223
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Ornos	224
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Platis Gialos	225
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Saint Stefano	2728
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Tourlos	2729
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Agios Ioannis	2740
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Agios Stefanos-Mykonos	2741
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Glastros	3206
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Kalafatis	3207
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Kalo Livadi	3208
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Mykonos	68
+Tagoo	3209
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Paros	69
+Parikia	226
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Paros	69
+Naoussa	227
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Paros	69
+Pisso Livadi	228
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Karterados	3300
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Monolithos	3301
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Perivolos	3302
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Fira	229
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Kamari	230
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Perissa	231
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Thira	1693
+Firostefani	3216
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Thira	1693
+Megalochori	3217
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Imerovigli	2733
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Santorini	70
+Fanari	2738
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Andros	71
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Naxos	72
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Ios	2078
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Antiparos	3111
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Syros	3178
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Pholegandros	3179
+World	1
+Europe	13
+Greece	16
+Cyclades Islands	40
+Tinos	3181
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kalymnos	73
+Pothia	232
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kalymnos	73
+Massouri	233
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kalymnos	73
+Myrties	234
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kalymnos	73
+Kantouni	235
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Kos Town	236
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Kardamena	237
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Kefalos	238
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Marmari	240
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Mastichari	241
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Tingaki	242
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Lambi	2724
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Psalidi	2725
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Nea Alikarnassos	2816
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Kos	74
+Agios Fokas	3205
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Lachania	3366
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Rhodes Town	243
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Afandou	244
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Faliraki	245
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Gennadi	246
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Ixia	247
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Kalithea (Rhodes)	248
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Kolymbia	249
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Lardos	250
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Lindos	251
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Pefkos	252
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Tholos	253
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Trianta	254
+Trianda	2881
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Kalathos	1890
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Haraki	2090
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Pastida	2572
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Kiotari	2596
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Koskinou	2597
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Kremasti	2602
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Ialyssos	2732
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Fanes	3210
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Ladiko	3211
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Rhodes	75
+Lothiarika	3212
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Symi	1230
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Patmos	1597
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Leros	1969
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Karpathos	2400
+World	1
+Europe	13
+Greece	16
+Dodecanese Islands	41
+Nisyros	3146
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Skala Kalloni	255
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Petra	256
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Molivos	257
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Plomari	258
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Eressos	259
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Anaxos	260
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Eftalou	261
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lesbos	76
+Mytilene	1671
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Chios	77
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Lemnos	78
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Panormos	3278
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Agia Pelagia	286
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Agios Nikolaos	287
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Ammoudara	288
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Chania	289
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Elounda	290
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Georgioupolis	291
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Gouves	292
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Kokkini Hani	293
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Hersonissos	294
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Ierapetra	295
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Maleme	296
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Malia	297
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Matala	298
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Plakias	299
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Rethymnon	300
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Sissi	301
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Stalis	302
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Sitia	303
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Bali - Crete	1180
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Heraklion	1200
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Aghia Galini	2590
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Analipsi	2599
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Gerani	2721
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Gournes	2756
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Ligaria	2805
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Milatos	2806
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Koutouloufari	2880
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Anissaras	3056
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Aghia Marina - Crete	3199
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Istron	3200
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Lassithi	3201
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Piskopiano	3202
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Crete	80
+Platanias	3203
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Thassos	81
+Limena	304
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Thassos	81
+Potos	305
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Thassos	81
+Pefkari	306
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Thassos	81
+Limenaria	307
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Thassos	81
+Skala Potamias	308
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Samos	82
+Gagou Beach	3299
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Samos	82
+Karlovassi	309
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Samos	82
+Kokkari	310
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Samos	82
+Pythagorion	311
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Samos	82
+Samos Town	312
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Samos	82
+Kalami	2570
+World	1
+Europe	13
+Greece	16
+Aegean Islands	42
+Samos	82
+Votsalakia	2834
+World	1
+Europe	13
+Greece	16
+Kavala	1488
+Alleppey	3196
+World	1
+Europe	13
+Greece	16
+Salonica	1675
+World	1
+Europe	13
+Greece	16
+Volos	1778
+World	1
+Europe	13
+Greece	16
+Thrace	2243
+Alexandroupolis	2244
+World	1
+Europe	13
+Greece	16
+Ipiros	2381
+Ioannina	2382
+World	1
+Europe	13
+Greece	16
+Tilos	3107
+World	1
+Europe	13
+Greece	16
+Pelion	3180
+World	1
+Europe	13
+Israel	17
+Gaza	1813
+World	1
+Europe	13
+Israel	17
+Eilat	1814
+World	1
+Europe	13
+Israel	17
+Jerusalem Area	1818
+Jerusalem	1819
+World	1
+Europe	13
+Israel	17
+Med Coast Region	1820
+Netanya	1821
+World	1
+Europe	13
+Israel	17
+Med Coast Region	1820
+Tel Aviv	1822
+Dead Sea	3229
+World	1
+Europe	13
+Israel	17
+Haifa	3236
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Silves	3279
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Acoleias	3280
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Olhao	3281
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Albufeira	323
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Altura	324
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Alvor	325
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Armacao de Pera	326
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Carvoeiro	327
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Lagos-Algarve	328
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Monte Gordo	329
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Praia da Falesia	330
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Praia da Luz	331
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Praia da Rocha	332
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Quarteira	333
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Quinta do Lago	334
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Tavira	335
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Vale do Lobo	336
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Vilamoura	337
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Faro	935
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Praia da Oura	1177
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Portimao	1479
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Sao Joao	2133
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Acoteias	2549
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Cabanas	2551
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Praia Do Vau	2558
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Loule	2562
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Estoi	2563
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Benagil	2607
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Montechoro	2678
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Olhos d'Agua	2778
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Ferragudo	2779
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Porches	2780
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Gale	2784
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Lagoa	2785
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Boliqueime	2902
+World	1
+Europe	13
+Portugal	18
+Algarve	43
+Cabanas	3232
+World	1
+Europe	13
+Portugal	18
+Costa Verde	44
+Ofir	338
+World	1
+Europe	13
+Portugal	18
+Costa Verde	44
+Viana do Castelo	339
+World	1
+Europe	13
+Portugal	18
+Estramadura	45
+Cascais	340
+World	1
+Europe	13
+Portugal	18
+Estramadura	45
+Estoril	341
+World	1
+Europe	13
+Portugal	18
+Estramadura	45
+Sesimbra	342
+World	1
+Europe	13
+Portugal	18
+Estramadura	45
+La Parra	2631
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Garajau	3283
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Sao Vicente - Madeira	3284
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Santa Cruz	3285
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Calheta	3286
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Ponto Do Sol	3392
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Canico de Baixo	343
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Funchal	344
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Machico	345
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Porto Santo	3057
+World	1
+Europe	13
+Portugal	18
+Madeira	741
+Encumeada	3391
+World	1
+Europe	13
+Portugal	18
+Central Portugal	936
+Lisbon	937
+World	1
+Europe	13
+Portugal	18
+Central Portugal	936
+Costa de Caparica	3119
+World	1
+Europe	13
+Portugal	18
+Northern Portugal	938
+Porto	939
+World	1
+Europe	13
+Portugal	18
+Oporto	2131
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Corvo	2362
+Vila Nova Do Corvo	2371
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Flores	2363
+Santa Cruz De Flores	2373
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Faial	2364
+Horta	2374
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Pico	2365
+Lajes Do Pico	2375
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Pico	2365
+Madalena	2376
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Sao Jorge	2366
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Graciosa	2367
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Terceira	2368
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Sao Miguel	2369
+World	1
+Europe	13
+Portugal	18
+Azores	2361
+Santa Maria	2370
+World	1
+Europe	13
+Portugal	18
+Alentejo	3110
+World	1
+Europe	13
+Turkey	19
+Ozdere	3276
+World	1
+Europe	13
+Turkey	19
+Alanya	346
+World	1
+Europe	13
+Turkey	19
+Altinkum	347
+World	1
+Europe	13
+Turkey	19
+Antalya	348
+Denizyaka	3361
+World	1
+Europe	13
+Turkey	19
+Antalya	348
+Tekirova	3374
+World	1
+Europe	13
+Turkey	19
+Antalya	348
+Lara Beach	2750
+World	1
+Europe	13
+Turkey	19
+Antalya	348
+Konakli	3096
+World	1
+Europe	13
+Turkey	19
+Antalya	348
+Lara	3263
+World	1
+Europe	13
+Turkey	19
+Antalya	348
+Camyuva	3264
+World	1
+Europe	13
+Turkey	19
+Beldibi	349
+World	1
+Europe	13
+Turkey	19
+Bitez	350
+World	1
+Europe	13
+Turkey	19
+Bodrum	351
+Turkbuku	3373
+World	1
+Europe	13
+Turkey	19
+Bodrum	351
+Gundogan	2664
+World	1
+Europe	13
+Turkey	19
+Bodrum	351
+Selcuk	2665
+World	1
+Europe	13
+Turkey	19
+Bodrum	351
+Didim	2786
+World	1
+Europe	13
+Turkey	19
+Bodrum	351
+Kadikalesi	3365
+World	1
+Europe	13
+Turkey	19
+Calis	352
+World	1
+Europe	13
+Turkey	19
+Cavus	353
+World	1
+Europe	13
+Turkey	19
+Cesme	354
+World	1
+Europe	13
+Turkey	19
+Fethiye	355
+Kayakoy	2737
+World	1
+Europe	13
+Turkey	19
+Gumbet	356
+World	1
+Europe	13
+Turkey	19
+Icmeler	357
+World	1
+Europe	13
+Turkey	19
+Incekum	358
+World	1
+Europe	13
+Turkey	19
+Kalkan	359
+World	1
+Europe	13
+Turkey	19
+Kas	360
+World	1
+Europe	13
+Turkey	19
+Kemer	361
+Kiris	2882
+World	1
+Europe	13
+Turkey	19
+Kusadasi	362
+World	1
+Europe	13
+Turkey	19
+Marmaris	363
+World	1
+Europe	13
+Turkey	19
+Olu Deniz	364
+World	1
+Europe	13
+Turkey	19
+Ortakent	365
+World	1
+Europe	13
+Turkey	19
+Patara	366
+World	1
+Europe	13
+Turkey	19
+Side	367
+World	1
+Europe	13
+Turkey	19
+Turgutreis	368
+World	1
+Europe	13
+Turkey	19
+Yalikavak	369
+World	1
+Europe	13
+Turkey	19
+Belek	756
+World	1
+Europe	13
+Turkey	19
+Ovacik	1134
+World	1
+Europe	13
+Turkey	19
+Hisaronu	1141
+World	1
+Europe	13
+Turkey	19
+Dalaman	1194
+Sarigerme	3028
+World	1
+Europe	13
+Turkey	19
+Izmir	1222
+World	1
+Europe	13
+Turkey	19
+Turunc Bay	1225
+World	1
+Europe	13
+Turkey	19
+Bozburun	1226
+World	1
+Europe	13
+Turkey	19
+Dalyan	1235
+World	1
+Europe	13
+Turkey	19
+Dikili	1478
+World	1
+Europe	13
+Turkey	19
+Orhaniye	1593
+World	1
+Europe	13
+Turkey	19
+Gocek	1598
+World	1
+Europe	13
+Turkey	19
+Akyaka	1599
+World	1
+Europe	13
+Turkey	19
+Istanbul	1621
+World	1
+Europe	13
+Turkey	19
+Ankara	2167
+World	1
+Europe	13
+Turkey	19
+Colakli	2585
+World	1
+Europe	13
+Turkey	19
+Gumusluk	2616
+World	1
+Europe	13
+Turkey	19
+Armutalan	2623
+World	1
+Europe	13
+Turkey	19
+Torba	2626
+World	1
+Europe	13
+Turkey	19
+Turunc	2677
+World	1
+Europe	13
+Turkey	19
+Selimiye	2753
+World	1
+Europe	13
+Turkey	19
+Manavgat	2754
+World	1
+Europe	13
+Turkey	19
+Gulet Cruise	2927
+World	1
+Europe	13
+Turkey	19
+Datca	2941
+World	1
+Europe	13
+Turkey	19
+Gulluk	3048
+World	1
+Europe	13
+Turkey	19
+Mersin	3142
+World	1
+Europe	13
+Turkey	19
+Gokova	3363
+World	1
+Europe	13
+Italy	20
+Adriatic Riviera	46
+Cattolica	370
+World	1
+Europe	13
+Italy	20
+Adriatic Riviera	46
+Pesaro	371
+World	1
+Europe	13
+Italy	20
+Adriatic Riviera	46
+Riccione	372
+World	1
+Europe	13
+Italy	20
+Adriatic Riviera	46
+Rimini	373
+World	1
+Europe	13
+Italy	20
+Adriatic Riviera	46
+Ancona	2069
+World	1
+Europe	13
+Italy	20
+Neapolitan Riviera	47
+Amalfi	374
+World	1
+Europe	13
+Italy	20
+Neapolitan Riviera	47
+Maiori	375
+World	1
+Europe	13
+Italy	20
+Neapolitan Riviera	47
+Minori	376
+World	1
+Europe	13
+Italy	20
+Neapolitan Riviera	47
+Positano	377
+World	1
+Europe	13
+Italy	20
+Neapolitan Riviera	47
+Sorrento	378
+Massa Lubrense	2909
+World	1
+Europe	13
+Italy	20
+Neapolitan Riviera	47
+Ravello	2646
+World	1
+Europe	13
+Italy	20
+Tuscany	48
+Viareggio	384
+World	1
+Europe	13
+Italy	20
+Tuscany	48
+Florence	893
+World	1
+Europe	13
+Italy	20
+Tuscany	48
+Pisa	894
+World	1
+Europe	13
+Italy	20
+Tuscany	48
+Siena	2091
+World	1
+Europe	13
+Italy	20
+Tuscany	48
+Montecatini Terme	2666
+World	1
+Europe	13
+Italy	20
+Tuscany	48
+Elba	3122
+World	1
+Europe	13
+Italy	20
+Venetian Riviera	49
+Lido di Jesolo	385
+World	1
+Europe	13
+Italy	20
+Venetian Riviera	49
+Venice Lido	386
+World	1
+Europe	13
+Italy	20
+Alghero	379
+World	1
+Europe	13
+Italy	20
+Santa Margherita di Paulo	380
+World	1
+Europe	13
+Italy	20
+Emilia-Romagna	890
+Bologna	891
+World	1
+Europe	13
+Italy	20
+Emilia-Romagna	890
+Parma	892
+World	1
+Europe	13
+Italy	20
+Liguria	895
+Genoa	896
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Milan	898
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Livigno	1131
+Bormio	1155
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Lake Como	1223
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Lake Maggiore	1224
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Valdidentro	1247
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Valdisotto	1248
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Bergamo	1672
+World	1
+Europe	13
+Italy	20
+Lombardy	897
+Madesimo	1930
+World	1
+Europe	13
+Italy	20
+Campania	899
+Naples	900
+World	1
+Europe	13
+Italy	20
+Campania	899
+St Agnello	2153
+World	1
+Europe	13
+Italy	20
+Lazio	901
+Rome	902
+World	1
+Europe	13
+Italy	20
+Lazio	901
+Lake Bolsena	2162
+World	1
+Europe	13
+Italy	20
+Piedmont	903
+Turin	904
+World	1
+Europe	13
+Italy	20
+Piedmont	903
+Macugnaga	1147
+World	1
+Europe	13
+Italy	20
+Piedmont	903
+Bardonecchia	1157
+World	1
+Europe	13
+Italy	20
+Piedmont	903
+Lake Orta	2163
+World	1
+Europe	13
+Italy	20
+The Veneto	905
+Venice	906
+World	1
+Europe	13
+Italy	20
+The Veneto	905
+Verona	907
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Arabba	988
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Alleghe	989
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Val di Fassa	990
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Selva	991
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Saint Cristina	992
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Corvara	993
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Cortina d'Ampezzo	994
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Campitello	995
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Canazei	996
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Andalo	1143
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Plan de Corones	1261
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Alta Badia	1262
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Sella Ronda	1263
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Alta Pusteria	1264
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Val di Fiemme	1265
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+San Martino di Castrozza	1266
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Passo Rolle	1267
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Valle Isarco	1268
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Civetta	1270
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+San Cassiano	1353
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Santa Cristina	1354
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Colfosco	1355
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+La Villa	1356
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Madonna di Campiglio	1364
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Val Senales	1426
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Passo Tonale	1465
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Cavalese	2704
+World	1
+Europe	13
+Italy	20
+The Dolomites	987
+Mazzin di Fassa	2706
+World	1
+Europe	13
+Italy	20
+Trentino	1153
+Paganella	3384
+World	1
+Europe	13
+Italy	20
+Trentino	1153
+Folgaria	1963
+World	1
+Europe	13
+Italy	20
+Courmayeur	1159
+La Thuile	1183
+World	1
+Europe	13
+Italy	20
+Penia de Canazei	1167
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sardinia	1189
+Cagliari	1684
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sardinia	1189
+Olbia	1898
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sicily	1190
+Cefalu	381
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sicily	1190
+Giardini-Naxos	382
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sicily	1190
+Catania	1685
+Taormina	2887
+Mazzaro	2888
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sicily	1190
+Catania	1685
+Giarre	3230
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sicily	1190
+Catania	1685
+Letojanni	3231
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sicily	1190
+Palermo	2097
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Sicily	1190
+Syracuse-Sicily	3034
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Capri	1191
+World	1
+Europe	13
+Italy	20
+Italian Islands	1188
+Ischia	2155
+Ischia Porto	3364
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Torbole	1234
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Bardolino	2627
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Garda	2669
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Limone	2757
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Malcesine	2758
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Desenzano	2759
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Sirmione	2760
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Riva del Garda	2762
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Lake Garda	1198
+Torri del Benaco	2959
+World	1
+Europe	13
+Italy	20
+Italian Alps	1192
+Alta Valtellina	1455
+Santa Caterina	1456
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Claviere	1132
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Sauze d'Oulx	1138
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Cesana	1305
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+San Sicario	1308
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Sestriere	1380
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Borgata	1381
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Grangesises	1382
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Jouvenceaux	1383
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Sagnalonga	1453
+World	1
+Europe	13
+Italy	20
+Milky Way	1304
+Sportinia	1953
+World	1
+Europe	13
+Italy	20
+Monterosa	1331
+Gressoney-La-Trinite	1332
+World	1
+Europe	13
+Italy	20
+Monterosa	1331
+Gressoney-St-Jean	1333
+World	1
+Europe	13
+Italy	20
+Monterosa	1331
+Alagna	1334
+World	1
+Europe	13
+Italy	20
+Monterosa	1331
+Champoluc	1335
+World	1
+Europe	13
+Italy	20
+Aosta Valley	1376
+Pila	1378
+World	1
+Europe	13
+Italy	20
+Aosta Valley	1376
+Val Tournanche	1379
+World	1
+Europe	13
+Italy	20
+Aosta Valley	1376
+Rhemes-Notre-Dame	1916
+World	1
+Europe	13
+Italy	20
+Cervinia	1454
+World	1
+Europe	13
+Italy	20
+Brindisi	1683
+World	1
+Europe	13
+Italy	20
+Puglia	2304
+Bari	2305
+World	1
+Europe	13
+Italy	20
+Umbria	2343
+Perugia	2344
+World	1
+Europe	13
+Italy	20
+Calabria	2429
+Lamezia	2430
+World	1
+Europe	13
+Italy	20
+Brescia	2578
+World	1
+Europe	13
+Italy	20
+Brembana Valley	2643
+Foppolo	2645
+World	1
+Europe	13
+Italy	20
+Capo Vaticano	2958
+World	1
+Europe	13
+Italy	20
+Abruzzo	3108
+World	1
+Europe	13
+Italy	20
+Molise	3143
+World	1
+Europe	13
+Malta	24
+Paradise Bay	3316
+World	1
+Europe	13
+Malta	24
+Gozo	58
+Mgarr	2712
+World	1
+Europe	13
+Malta	24
+Golden Bay	170
+World	1
+Europe	13
+Malta	24
+Marsascala	171
+World	1
+Europe	13
+Malta	24
+Mellieha	172
+Mellieha Bay	2910
+World	1
+Europe	13
+Malta	24
+St Julian's Bay	173
+World	1
+Europe	13
+Malta	24
+Sliema	175
+World	1
+Europe	13
+Malta	24
+Valletta	176
+World	1
+Europe	13
+Malta	24
+Bugibba	1218
+World	1
+Europe	13
+Malta	24
+Qawra	1966
+World	1
+Europe	13
+Malta	24
+St Georges-Malta	2089
+World	1
+Europe	13
+Malta	24
+St Paul's Bay	2561
+World	1
+Europe	13
+Malta	24
+St Andrews	2574
+World	1
+Europe	13
+Malta	24
+Comino	2635
+World	1
+Europe	13
+Malta	24
+Marfa Bay	2636
+World	1
+Europe	13
+Malta	24
+Salina Bay	2829
+World	1
+Europe	13
+Malta	24
+Gzira	2905
+World	1
+Europe	13
+Malta	24
+Attard	3040
+World	1
+Europe	13
+Malta	24
+St Julians	2560
+World	1
+Europe	13
+United Kingdom	409
+Channel Islands	1201
+Jersey	1202
+World	1
+Europe	13
+United Kingdom	409
+Channel Islands	1201
+Guernsey	1904
+World	1
+Europe	13
+United Kingdom	409
+Isle of Man	2386
+Douglas	2387
+World	1
+Europe	13
+Austria	793
+Tirol	795
+Innsbruck	796
+World	1
+Europe	13
+Austria	793
+Tirol	795
+St. Michael	1174
+World	1
+Europe	13
+Austria	793
+Tirol	795
+Fieberbrunn	1351
+World	1
+Europe	13
+Austria	793
+Tirol	795
+Lermoos	1422
+World	1
+Europe	13
+Austria	793
+Tirol	795
+Axamer-Lizum	1450
+World	1
+Europe	13
+Austria	793
+Tirol	795
+Igls	1931
+World	1
+Europe	13
+Austria	793
+Tirol	795
+Lake Achensee	3234
+World	1
+Europe	13
+Austria	793
+Tirol	795
+Oetztal Valley	3235
+World	1
+Europe	13
+Austria	793
+Wien	797
+Vienna	798
+St Gilgen	2960
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Bad Hofgastein	998
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Bad Gastein	999
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Dorfgastein	1279
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Sport Gastein	1280
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Grossarl	1282
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Schlossalm	1283
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Angertal-Stubnerkogel	1284
+World	1
+Europe	13
+Austria	793
+Gasteinertal	997
+Graukogel	1285
+World	1
+Europe	13
+Austria	793
+Dachstein Mountain	1000
+Schladming	1001
+World	1
+Europe	13
+Austria	793
+Dachstein Mountain	1000
+Haus	1002
+World	1
+Europe	13
+Austria	793
+Dachstein Mountain	1000
+Bad Kleinkirchheim	1003
+World	1
+Europe	13
+Austria	793
+Dachstein Mountain	1000
+St Wolfgang	1004
+World	1
+Europe	13
+Austria	793
+Dachstein Mountain	1000
+Ramsau	1259
+World	1
+Europe	13
+Austria	793
+Dachstein Mountain	1000
+Pichl Mandling	1260
+World	1
+Europe	13
+Austria	793
+Dachstein Mountain	1000
+Lake Wolfgang	1595
+World	1
+Europe	13
+Austria	793
+Ski Circus	1005
+Saalbach	1006
+World	1
+Europe	13
+Austria	793
+Ski Circus	1005
+Hinterglemm	1007
+World	1
+Europe	13
+Austria	793
+Ski Circus	1005
+Kaprun	1008
+World	1
+Europe	13
+Austria	793
+Ski Circus	1005
+Kirchberg	1146
+World	1
+Europe	13
+Austria	793
+Europa Region	1009
+Zell am See	1010
+World	1
+Europe	13
+Austria	793
+Europa Region	1009
+Bruck	1011
+World	1
+Europe	13
+Austria	793
+Europa Region	1009
+Brand	1012
+World	1
+Europe	13
+Austria	793
+Europa Region	1009
+Burserberg	1013
+World	1
+Europe	13
+Austria	793
+Europa Region	1009
+Schuttdorf	2455
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+St Anton	1015
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+Filzmoos	1016
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+Lech	1017
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+Zurs	1018
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+St Christoph	1019
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+Rauz	1250
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+Stuben	1251
+World	1
+Europe	13
+Austria	793
+Arlberg	1014
+Flirsch	1473
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Mayrhofen	1021
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Finkenberg	1022
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Seefeld	1023
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Zell am Ziller	1402
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Fugen	1403
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Fugenberg	1404
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Gerlos	1405
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Hintertux	1406
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Juns	1407
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Kaltenbach	1408
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Kramsach	1409
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Lanersbach	1410
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Madseit	1411
+World	1
+Europe	13
+Austria	793
+Ziller Valley	1020
+Vorderlanersbach	1413
+World	1
+Europe	13
+Austria	793
+Stubai Valley	1024
+Neustift	1025
+World	1
+Europe	13
+Austria	793
+Stubai Valley	1024
+Fulpmes	1026
+World	1
+Europe	13
+Austria	793
+Stubai Valley	1024
+Hochpillberg	1027
+World	1
+Europe	13
+Austria	793
+Stubai Valley	1024
+Stans	1028
+World	1
+Europe	13
+Austria	793
+Stubai Valley	1024
+Alpbach	1029
+World	1
+Europe	13
+Austria	793
+Stubai Valley	1024
+Obergurgl	1030
+World	1
+Europe	13
+Austria	793
+Stubai Valley	1024
+Hochgurgl	1031
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Ellmau	1033
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Soll	1034
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Scheffau	1035
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Westendorf	1036
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Kirchdorf	1037
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+St Johann	1038
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Kitzbuhel	1039
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Itter	1040
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Kelchsau	1365
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Brixen im Thale	1366
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Going	1367
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Hopfgarten	1368
+World	1
+Europe	13
+Austria	793
+Ski Welt	1032
+Kufstein	1948
+World	1
+Europe	13
+Austria	793
+Wildschonau	1041
+Niederau	1042
+World	1
+Europe	13
+Austria	793
+Wildschonau	1041
+Oberau	1043
+World	1
+Europe	13
+Austria	793
+Wildschonau	1041
+Waidring	1044
+World	1
+Europe	13
+Austria	793
+Wildschonau	1041
+Obertauern	1045
+World	1
+Europe	13
+Austria	793
+Wildschonau	1041
+Auffach	1420
+World	1
+Europe	13
+Austria	793
+Salzburg	1092
+Leogang	1151
+World	1
+Europe	13
+Austria	793
+Salzburg	1092
+Lake Fuschl	2670
+World	1
+Europe	13
+Austria	793
+Liege	1093
+World	1
+Europe	13
+Austria	793
+Sportswelt Amade	1369
+Wagrain	1370
+World	1
+Europe	13
+Austria	793
+Sportswelt Amade	1369
+Flachau	1371
+World	1
+Europe	13
+Austria	793
+Sportswelt Amade	1369
+Zauchensee	1372
+World	1
+Europe	13
+Austria	793
+Sportswelt Amade	1369
+Alpendorf	1373
+World	1
+Europe	13
+Austria	793
+Sportswelt Amade	1369
+Radstadt	1374
+World	1
+Europe	13
+Austria	793
+Sportswelt Amade	1369
+Neuberg	1375
+World	1
+Europe	13
+Austria	793
+Silvretta	1414
+Galtur	1415
+World	1
+Europe	13
+Austria	793
+Silvretta	1414
+Kappl	1416
+World	1
+Europe	13
+Austria	793
+Silvretta	1414
+Ischgl	1417
+World	1
+Europe	13
+Austria	793
+Silvretta	1414
+Samnaun	1418
+World	1
+Europe	13
+Austria	793
+Austrian Alps	1460
+Rauris	2459
+World	1
+Europe	13
+Austria	793
+Muhlbach	1462
+World	1
+Europe	13
+Austria	793
+Slovenian Alps	1464
+World	1
+Europe	13
+Austria	793
+Karnten	2073
+Klagenfurt	2074
+World	1
+Europe	13
+Austria	793
+Karnten	2073
+Mallnitz	2084
+World	1
+Europe	13
+Austria	793
+Styria	2350
+Graz	2351
+World	1
+Europe	13
+Austria	793
+Upper Austria	2522
+Linz	2523
+World	1
+Europe	13
+Austria	793
+Solden	2690
+World	1
+Europe	13
+Austria	793
+Carinthia	3116
+World	1
+Europe	13
+Austria	793
+Vorarlberg	3166
+World	1
+Europe	13
+Belgium	799
+Antwerpen	800
+Antwerp	801
+World	1
+Europe	13
+Belgium	799
+West Vlaanderen	802
+Brugge	803
+World	1
+Europe	13
+Belgium	799
+West Vlaanderen	802
+Bruges	1232
+World	1
+Europe	13
+Belgium	799
+West Vlaanderen	802
+Ostend	2358
+World	1
+Europe	13
+Belgium	799
+Brabant	804
+Brussels	805
+World	1
+Europe	13
+Belgium	799
+Ghent	2674
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Sunny Beach	2852
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Elenite	2853
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Nessebar	2857
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Sozopol	2859
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Primorsko	2860
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Bourgas Area	2924
+Sinemorets	3188
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Dinevi Resort	3030
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Duni	3050
+World	1
+Europe	13
+Bulgaria	806
+Bourgas	1892
+Sveti Vlas	3061
+World	1
+Europe	13
+Bulgaria	806
+Plovdiv	1918
+Pamporovo	2846
+World	1
+Europe	13
+Bulgaria	806
+Varna	1919
+Albena	2188
+World	1
+Europe	13
+Bulgaria	806
+Varna	1919
+Golden Sands	2634
+World	1
+Europe	13
+Bulgaria	806
+Varna	1919
+St Constantine and Elena	2850
+St Konstantin	2856
+World	1
+Europe	13
+Bulgaria	806
+Varna	1919
+Rusalka	2851
+World	1
+Europe	13
+Bulgaria	806
+Varna	1919
+Sunny Day	2855
+World	1
+Europe	13
+Bulgaria	806
+Varna	1919
+Varna Area	2923
+World	1
+Europe	13
+Bulgaria	806
+Sofia	2847
+Bansko	2848
+World	1
+Europe	13
+Bulgaria	806
+Sofia	2847
+Borovets	2849
+World	1
+Europe	13
+Bulgaria	806
+Pomorie	2966
+World	1
+Europe	13
+Bulgaria	806
+Obzor	2968
+World	1
+Europe	13
+Bulgaria	806
+Paradise Beach	2986
+World	1
+Europe	13
+Croatia	809
+Grad Zagreb	810
+Zagreb	811
+World	1
+Europe	13
+Croatia	809
+Istarska	1695
+Pula	2608
+Vrsar	3190
+World	1
+Europe	13
+Croatia	809
+Istarska	1695
+Porec	2615
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Lopud Island	3385
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Dubrovnik	1971
+Orasac	3386
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Dubrovnik	1971
+Plat	3404
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Dubrovnik	1971
+Mlini	3405
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Dubrovnik	1971
+Mljet	2981
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Dubrovnik	1971
+Kolocep Island	3189
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Slano	2619
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Korcula Island	2842
+Korcula	2907
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Korcula Island	2842
+Lumbarda	3039
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Orebic	2844
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Cavtat	2906
+World	1
+Europe	13
+Croatia	809
+Dalmatia	1970
+Baska Voda	2982
+World	1
+Europe	13
+Croatia	809
+Rovinj	2187
+World	1
+Europe	13
+Croatia	809
+Karlovacka	2609
+Karlovac	2610
+World	1
+Europe	13
+Croatia	809
+Splitsko-Dalmatinska	2611
+Split	2612
+World	1
+Europe	13
+Croatia	809
+Splitsko-Dalmatinska	2611
+Hvar	2613
+Jelsa	2972
+World	1
+Europe	13
+Croatia	809
+Splitsko-Dalmatinska	2611
+Hvar	2613
+Stari Grad	2976
+World	1
+Europe	13
+Croatia	809
+Splitsko-Dalmatinska	2611
+Brac	2614
+Bol	2975
+World	1
+Europe	13
+Croatia	809
+Splitsko-Dalmatinska	2611
+Brela	3051
+World	1
+Europe	13
+Croatia	809
+Umag	2845
+World	1
+Europe	13
+Croatia	809
+Podgora	2967
+World	1
+Europe	13
+Croatia	809
+Trogir	2970
+World	1
+Europe	13
+Croatia	809
+Primosten	2971
+World	1
+Europe	13
+Croatia	809
+Makarska	2977
+World	1
+Europe	13
+Croatia	809
+Opatija	2978
+World	1
+Europe	13
+Croatia	809
+Gradac	2979
+World	1
+Europe	13
+Croatia	809
+Sibenik	2980
+World	1
+Europe	13
+Croatia	809
+Istria and Kvarner	2983
+Tas	3394
+World	1
+Europe	13
+Croatia	809
+Baska Voda	2984
+World	1
+Europe	13
+Croatia	809
+Vodice	2985
+World	1
+Europe	13
+Croatia	809
+Kvarner	3052
+Optaija	3054
+World	1
+Europe	13
+Croatia	809
+Kvarner	3052
+Lovran	3055
+World	1
+Europe	13
+Croatia	809
+Slavonia	3170
+World	1
+Europe	13
+Croatia	809
+Zadar	3191
+Tucepi	3192
+World	1
+Europe	13
+Czech Republic	812
+Praha	813
+Prague	814
+World	1
+Europe	13
+Denmark	815
+Nordjyland	816
+Aalborg	817
+World	1
+Europe	13
+Denmark	815
+Kobenhavn	818
+Copenhagen	819
+World	1
+Europe	13
+Denmark	815
+Fyn	820
+Odense	821
+World	1
+Europe	13
+Denmark	815
+Arhus	1094
+World	1
+Europe	13
+Denmark	815
+Jutland	2312
+Billund	2313
+World	1
+Europe	13
+England	822
+Greater Manchester	825
+Manchester	826
+World	1
+Europe	13
+England	822
+Yorkshire	827
+York	828
+World	1
+Europe	13
+England	822
+Yorkshire	827
+Leeds	2191
+World	1
+Europe	13
+England	822
+North Somerset	829
+Bath	830
+World	1
+Europe	13
+England	822
+Tyne and Weir	831
+Newcastle	832
+World	1
+Europe	13
+England	822
+Tyne and Weir	831
+Teeside	2192
+World	1
+Europe	13
+England	822
+West Midlands	833
+World	1
+Europe	13
+England	822
+Somerset	2271
+World	1
+Europe	13
+Estonia	835
+Hajumma	836
+Tallinn	837
+World	1
+Europe	13
+Finland	838
+Uusimaa	839
+Helsinki	840
+World	1
+Europe	13
+Finland	838
+Lapland	1243
+Finnish Lapland	1911
+Yllas	3266
+World	1
+Europe	13
+Finland	838
+Lapland	1243
+Finnish Lapland	1911
+Rovaniemi	1912
+World	1
+Europe	13
+Finland	838
+Lapland	1243
+Finnish Lapland	1911
+Pyha	1913
+World	1
+Europe	13
+Finland	838
+Lapland	1243
+Finnish Lapland	1911
+Levi	1914
+World	1
+Europe	13
+Finland	838
+Lapland	1243
+Finnish Lapland	1911
+Ivalo	1915
+World	1
+Europe	13
+Finland	838
+Lapland	1243
+Finnish Lapland	1911
+Kittila	2699
+World	1
+Europe	13
+Finland	838
+Lapland	1243
+Finnish Lapland	1911
+Saariselka	3265
+World	1
+Europe	13
+Finland	838
+Kuusamo	2691
+Iso-Syote	3398
+World	1
+Europe	13
+Finland	838
+Kuusamo	2691
+Ruka	3399
+World	1
+Europe	13
+Germany	869
+Berlin	870
+World	1
+Europe	13
+Germany	869
+North Rhine Westphalia	871
+Bonn	872
+World	1
+Europe	13
+Germany	869
+North Rhine Westphalia	871
+Cologne	874
+World	1
+Europe	13
+Germany	869
+North Rhine Westphalia	871
+Dusseldorf	877
+World	1
+Europe	13
+Germany	869
+North Rhine Westphalia	871
+Dortmund	2247
+World	1
+Europe	13
+Germany	869
+North Rhine Westphalia	871
+Muenster	2541
+World	1
+Europe	13
+Germany	869
+Bremen	873
+World	1
+Europe	13
+Germany	869
+Saxony	875
+Dresden	876
+World	1
+Europe	13
+Germany	869
+Saxony	875
+Hanover	881
+World	1
+Europe	13
+Germany	869
+Saxony	875
+Leipzig	882
+World	1
+Europe	13
+Germany	869
+Brandenburg	878
+Frankfurt	879
+World	1
+Europe	13
+Germany	869
+Hamburg	880
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Munich	884
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Nuremberg	885
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Ruhpolding	2667
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Inzell	2668
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Garmisch	2716
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Oberammergau	2717
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Berchtesgaden	3113
+World	1
+Europe	13
+Germany	869
+Bavaria	883
+Bodensee	3131
+World	1
+Europe	13
+Germany	869
+Baden Wurttemberg	886
+Stuttgart	887
+World	1
+Europe	13
+Germany	869
+Middle Rhine	1925
+Rudesheim	1926
+World	1
+Europe	13
+Germany	869
+Mecklenburg	3138
+World	1
+Europe	13
+Germany	869
+Rhineland Palatinate	3147
+Mosel	3148
+World	1
+Europe	13
+Germany	869
+North Frisian Islands	3150
+World	1
+Europe	13
+Iceland	888
+Reykjavik	889
+World	1
+Europe	13
+Latvia	908
+Riga	909
+World	1
+Europe	13
+Liechtenstein	910
+Vaduz	911
+World	1
+Europe	13
+Lithuania	912
+Vilnius	913
+World	1
+Europe	13
+Luxembourg	914
+Luxembourg City	915
+World	1
+Europe	13
+Macedonia	917
+Skopje	918
+World	1
+Europe	13
+Netherlands	919
+North Holland	920
+Amsterdam	921
+World	1
+Europe	13
+Netherlands	919
+South Holland	922
+Rotterdam	923
+World	1
+Europe	13
+Netherlands	919
+South Holland	922
+The Hague	924
+World	1
+Europe	13
+Netherlands	919
+Utrecht	925
+World	1
+Europe	13
+Norway	926
+Trysil	3381
+World	1
+Europe	13
+Norway	926
+Northern Norway	927
+Trondheim	928
+World	1
+Europe	13
+Norway	926
+Northern Norway	927
+Oppdal	3382
+World	1
+Europe	13
+Norway	926
+Bergen	1095
+Voss	1443
+World	1
+Europe	13
+Norway	926
+Oslo	1096
+World	1
+Europe	13
+Norway	926
+Hardanger Mountain	1441
+World	1
+Europe	13
+Norway	926
+Buskerud	1444
+Hemsedal	1445
+World	1
+Europe	13
+Norway	926
+Buskerud	1444
+Geilo	1475
+World	1
+Europe	13
+Norway	926
+Stavanger	1900
+World	1
+Europe	13
+Norway	926
+Jotunheim Mountains	1936
+Beitostolen	1937
+World	1
+Europe	13
+Norway	926
+Oppland	2114
+Lillehammer	2115
+World	1
+Europe	13
+Norway	926
+Oppland	2114
+Fagernes	2679
+World	1
+Europe	13
+Northern Ireland	929
+County Antrim	930
+Belfast	931
+World	1
+Europe	13
+Poland	932
+Mazowsze and Podlasie	933
+Warsaw	934
+World	1
+Europe	13
+Poland	932
+Malopolska	1113
+Krakow	1114
+World	1
+Europe	13
+Poland	932
+Pomorze	1811
+Gdansk	1812
+World	1
+Europe	13
+Poland	932
+Kuyavia &amp; Pomerania	2268
+Bydgoszcz	2269
+World	1
+Europe	13
+Poland	932
+Upper Silesia	2401
+Katowice	2402
+World	1
+Europe	13
+Poland	932
+Wroclaw	2935
+World	1
+Europe	13
+Poland	932
+Lodz	2936
+World	1
+Europe	13
+Poland	932
+Zakopane	2937
+World	1
+Europe	13
+Poland	932
+Kaunas	2939
+World	1
+Europe	13
+Poland	932
+Poznan	2940
+World	1
+Europe	13
+Romania	941
+Bucharesti	942
+Bucharest	943
+World	1
+Europe	13
+Romania	941
+Carpathian Mountains	981
+Poiana Brasov	982
+World	1
+Europe	13
+Romania	941
+Cluj	2255
+World	1
+Europe	13
+Romania	941
+Predeal	3383
+World	1
+Europe	13
+Russia	944
+Moscow	1098
+World	1
+Europe	13
+Russia	944
+Ekaterinburg	2323
+World	1
+Europe	13
+Russia	944
+Kaliningrad	2396
+World	1
+Europe	13
+Russia	944
+Nizhny Novgorod	2545
+World	1
+Europe	13
+Russia	944
+St Petersburg	2714
+World	1
+Europe	13
+Russia	944
+Lake Baikal	3174
+World	1
+Europe	13
+Russia	944
+Russian Riviera	3175
+World	1
+Europe	13
+Scotland	945
+Grampian	946
+Aberdeen	947
+World	1
+Europe	13
+Scotland	945
+Lothian	948
+Edinburgh	949
+World	1
+Europe	13
+Scotland	945
+Strathclyde	950
+Glasgow	951
+World	1
+Europe	13
+Scotland	945
+Dumfries and Galloway	1905
+Stranraer	1906
+World	1
+Europe	13
+Scotland	945
+South Ayrshire	1907
+Ayr	1908
+World	1
+Europe	13
+Scotland	945
+Western Isles	2309
+Benbecula	2310
+World	1
+Europe	13
+Scotland	945
+Highland Western Isles	2379
+Inverness	2380
+World	1
+Europe	13
+Sweden	958
+Skane and Blekinge	959
+Malmo	960
+World	1
+Europe	13
+Sweden	958
+Central Swedish Lowland	963
+Stockholm	962
+World	1
+Europe	13
+Sweden	958
+Central Swedish Lowland	963
+Gothenburg	964
+World	1
+Europe	13
+Sweden	958
+Vemdalen	2119
+World	1
+Europe	13
+Sweden	958
+Jamtland	2347
+Are	2348
+World	1
+Europe	13
+Sweden	958
+Jamtland	2347
+Ostersund	2680
+World	1
+Europe	13
+Andorra	972
+Soldeu	973
+World	1
+Europe	13
+Andorra	972
+Arinsal	974
+World	1
+Europe	13
+Andorra	972
+Pas de la Casa	975
+World	1
+Europe	13
+Andorra	972
+El Tarter	1130
+World	1
+Europe	13
+Andorra	972
+Encamp	1170
+World	1
+Europe	13
+Andorra	972
+Arcalis	1438
+World	1
+Europe	13
+Andorra	972
+Canillo	1942
+World	1
+Europe	13
+Andorra	972
+Grau Roig	2586
+World	1
+Europe	13
+Andorra	972
+La Massana	2707
+World	1
+Europe	13
+Andorra	972
+Ordino	2715
+World	1
+Europe	13
+Slovenia	983
+Kranjska Gora	984
+World	1
+Europe	13
+Slovenia	983
+Bled	985
+World	1
+Europe	13
+Slovenia	983
+Bohinj	986
+World	1
+Europe	13
+Slovenia	983
+Lake Bled	1227
+World	1
+Europe	13
+Slovenia	983
+Ljubljana	1917
+World	1
+Europe	13
+Slovenia	983
+Portoroz	2987
+World	1
+Europe	13
+Switzerland	1046
+Engadine Valley	1047
+St Moritz	1048
+World	1
+Europe	13
+Switzerland	1046
+Engadine Valley	1047
+Celerina	1391
+World	1
+Europe	13
+Switzerland	1046
+Engadine Valley	1047
+Sils-Maria	1392
+World	1
+Europe	13
+Switzerland	1046
+Engadine Valley	1047
+Silvaplana	1393
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Verbier	1051
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Crans Montana	1052
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Saas Fee	1053
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Leysin	1054
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Villars	1055
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Les Diablerets	1056
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Zermatt	1057
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Gstaad	1058
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Chateau d'Oex	1059
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Nendaz	1277
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Veysonnaz	1278
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Les Marecottes	1286
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Ovronnaz	1287
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Aminona	1288
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Vercorin	1289
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Grimentz	1290
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+St Luc	1291
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Chandolin	1292
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Anzere	1293
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Rougemont	1311
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Saanenmoser	1312
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+St Stephan	1313
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Zweisimmen	1314
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Lauenen	1315
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Gsteig	1316
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Saanen	1317
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Mayens de Bruson	1320
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+Thyon	1321
+World	1
+Europe	13
+Switzerland	1046
+4 Valleys	1050
+La Tzoumaz	1322
+World	1
+Europe	13
+Switzerland	1046
+Jungfrau 	1060
+Interlaken	3326
+World	1
+Europe	13
+Switzerland	1046
+Jungfrau 	1060
+Wengen	1061
+World	1
+Europe	13
+Switzerland	1046
+Jungfrau 	1060
+Grindelwald	1062
+World	1
+Europe	13
+Switzerland	1046
+Jungfrau 	1060
+Murren	1318
+World	1
+Europe	13
+Switzerland	1046
+Geneva	1102
+Lake Geneva	1511
+World	1
+Europe	13
+Switzerland	1046
+Zurich	1103
+World	1
+Europe	13
+Switzerland	1046
+Swiss Alps	1161
+Lauterbrunnen	1463
+World	1
+Europe	13
+Switzerland	1046
+Grisons	1347
+Davos	1348
+World	1
+Europe	13
+Switzerland	1046
+Grisons	1347
+Klosters	1349
+World	1
+Europe	13
+Switzerland	1046
+Grisons	1347
+Pontresina	1390
+World	1
+Europe	13
+Switzerland	1046
+White Arena	1384
+Flims	1385
+World	1
+Europe	13
+Switzerland	1046
+White Arena	1384
+Laax	1386
+World	1
+Europe	13
+Switzerland	1046
+White Arena	1384
+Falera	1387
+World	1
+Europe	13
+Switzerland	1046
+Graubunden	1388
+Arosa	1389
+World	1
+Europe	13
+Switzerland	1046
+Lucerne	1509
+World	1
+Europe	13
+Switzerland	1046
+Valais	1940
+Sion	1941
+World	1
+Europe	13
+Switzerland	1046
+Valais	1940
+Kandersteg	2134
+World	1
+Europe	13
+Switzerland	1046
+Central Switzerland	1964
+Engelberg	1965
+World	1
+Europe	13
+Switzerland	1046
+Central Switzerland	1964
+Uri	3164
+World	1
+Europe	13
+Switzerland	1046
+Lake Lugano	2075
+Lugano	2076
+World	1
+Europe	13
+Switzerland	1046
+Basle	2130
+World	1
+Europe	13
+Switzerland	1046
+Portes du Soleil SU	2175
+Morgins	2176
+World	1
+Europe	13
+Switzerland	1046
+Berne	2311
+World	1
+Europe	13
+Switzerland	1046
+Vaud	3165
+World	1
+Europe	13
+Hungary	1090
+Budapest	1091
+Eger	3224
+World	1
+Europe	13
+Hungary	1090
+Budapest	1091
+Heviz	3225
+World	1
+Europe	13
+Hungary	1090
+Budapest	1091
+Pecs	3226
+World	1
+Europe	13
+Hungary	1090
+Budapest	1091
+Siofok	3227
+World	1
+Europe	13
+Hungary	1090
+Balaton	1512
+Lake Balaton	1513
+World	1
+Europe	13
+Greenland	1242
+World	1
+Europe	13
+Slovakia	1718
+Bratislava	1719
+World	1
+Europe	13
+Slovakia	1718
+Kosice	2421
+World	1
+Europe	13
+Serbia and Montenegro	1733
+Belgrade	1734
+World	1
+Europe	13
+Moldova	1750
+Kishinev	1751
+World	1
+Europe	13
+Ireland	1979
+County Carlow	1980
+Carlow	1981
+World	1
+Europe	13
+Ireland	1979
+County Cavan	1982
+Cavan	1983
+World	1
+Europe	13
+Ireland	1979
+County Clare	1984
+Ennis	1985
+World	1
+Europe	13
+Ireland	1979
+County Clare	1984
+Kilrush	1986
+World	1
+Europe	13
+Ireland	1979
+County Cork	1987
+Cork	1989
+World	1
+Europe	13
+Ireland	1979
+County Cork	1987
+Kinsale	1990
+World	1
+Europe	13
+Ireland	1979
+County Donegal	1988
+Buncrana	1991
+World	1
+Europe	13
+Ireland	1979
+County Donegal	1988
+Donegal	1992
+World	1
+Europe	13
+Ireland	1979
+County Donegal	1988
+Letterkenny	1993
+World	1
+Europe	13
+Ireland	1979
+County Dublin	1994
+Dublin	2000
+World	1
+Europe	13
+Ireland	1979
+County Galway	1995
+Galway	2001
+World	1
+Europe	13
+Ireland	1979
+County Galway	1995
+Loughrea	2002
+World	1
+Europe	13
+Ireland	1979
+County Galway	1995
+Tuam	2003
+World	1
+Europe	13
+Ireland	1979
+County Kerry	1996
+Castleisland	2004
+World	1
+Europe	13
+Ireland	1979
+County Kerry	1996
+Killarney	2005
+World	1
+Europe	13
+Ireland	1979
+County Kerry	1996
+Listowel	2006
+World	1
+Europe	13
+Ireland	1979
+County Kerry	1996
+Tralee	2007
+World	1
+Europe	13
+Ireland	1979
+County Kildare	1997
+Athy	2008
+World	1
+Europe	13
+Ireland	1979
+County Kildare	1997
+Kildare	2009
+World	1
+Europe	13
+Ireland	1979
+County Kildare	1997
+Monasterevan	2010
+World	1
+Europe	13
+Ireland	1979
+County Kildare	1997
+Naas	2011
+World	1
+Europe	13
+Ireland	1979
+County Kildare	1997
+Newbridge	2012
+World	1
+Europe	13
+Ireland	1979
+County Kilkenny	1998
+Kilkenny	2013
+World	1
+Europe	13
+Ireland	1979
+County Laois	1999
+Portlaoise	2014
+World	1
+Europe	13
+Ireland	1979
+County Leitrim	2015
+World	1
+Europe	13
+Ireland	1979
+County Limerick	2016
+Limerick	2030
+World	1
+Europe	13
+Ireland	1979
+County Limerick	2016
+Newcastle West	2031
+World	1
+Europe	13
+Ireland	1979
+County Longford	2017
+Longford	2032
+World	1
+Europe	13
+Ireland	1979
+County Louth	2018
+Ardee	2033
+World	1
+Europe	13
+Ireland	1979
+County Louth	2018
+Drogheda	2034
+World	1
+Europe	13
+Ireland	1979
+County Louth	2018
+Dundalk	2035
+World	1
+Europe	13
+Ireland	1979
+County Mayo	2019
+Ballina	2036
+World	1
+Europe	13
+Ireland	1979
+County Mayo	2019
+Castlebar	2037
+World	1
+Europe	13
+Ireland	1979
+County Mayo	2019
+Westport	2038
+World	1
+Europe	13
+Ireland	1979
+County Mayo	2019
+Knock	2517
+World	1
+Europe	13
+Ireland	1979
+County Meath	2020
+Kells	2039
+World	1
+Europe	13
+Ireland	1979
+County Meath	2020
+Navan	2040
+World	1
+Europe	13
+Ireland	1979
+County Meath	2020
+Trim	2041
+World	1
+Europe	13
+Ireland	1979
+County Monaghan	2021
+Carrickmacross	2042
+World	1
+Europe	13
+Ireland	1979
+County Monaghan	2021
+Clones	2043
+World	1
+Europe	13
+Ireland	1979
+County Monaghan	2021
+Monaghan	2044
+World	1
+Europe	13
+Ireland	1979
+County Offaly	2022
+Birr	2045
+World	1
+Europe	13
+Ireland	1979
+County Offaly	2022
+Tullamore	2046
+World	1
+Europe	13
+Ireland	1979
+County Roscommon	2023
+Boyle	2047
+World	1
+Europe	13
+Ireland	1979
+County Roscommon	2023
+Roscommon	2048
+World	1
+Europe	13
+Ireland	1979
+County Sligo	2024
+Sligo	2049
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Carrick on Suir	2050
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Cashel	2051
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Clonmel	2052
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Nenagh	2053
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Roscrea	2054
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Templemore	2055
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Thurles	2056
+World	1
+Europe	13
+Ireland	1979
+County Tipperary	2025
+Tipperary	2057
+World	1
+Europe	13
+Ireland	1979
+County Waterford	2026
+Tramore	2058
+World	1
+Europe	13
+Ireland	1979
+County Waterford	2026
+Waterford	2059
+World	1
+Europe	13
+Ireland	1979
+County Westmeath	2027
+Athlone	2060
+World	1
+Europe	13
+Ireland	1979
+County Westmeath	2027
+Mullingar	2061
+World	1
+Europe	13
+Ireland	1979
+County Wexford	2028
+Gorey	2062
+World	1
+Europe	13
+Ireland	1979
+County Wexford	2028
+New Ross	2063
+World	1
+Europe	13
+Ireland	1979
+County Wexford	2028
+Wexford	2064
+World	1
+Europe	13
+Ireland	1979
+County Wicklow	2029
+Arklow	2065
+World	1
+Europe	13
+Ireland	1979
+County Wicklow	2029
+Bray	2066
+World	1
+Europe	13
+Ireland	1979
+County Wicklow	2029
+Wicklow	2067
+World	1
+Europe	13
+Ukraine	2171
+Kiev	2172
+World	1
+Europe	13
+Ukraine	2171
+Dnepropetrovsk	2248
+World	1
+Europe	13
+Ukraine	2171
+Kharkov	2405
+World	1
+Europe	13
+Ukraine	2171
+Lvov	2527
+World	1
+Europe	13
+Albania	2193
+World	1
+Europe	13
+Bosnia &amp; Herzegovina	2196
+World	1
+Europe	13
+Belarus	2198
+Minsk	2537
+World	1
+Europe	13
+Cyprus	2648
+Limassol	2649
+World	1
+Europe	13
+Cyprus	2648
+Larnaca	2650
+World	1
+Europe	13
+Cyprus	2648
+Paphos	2651
+Chlorakas	2685
+World	1
+Europe	13
+Cyprus	2648
+Protaras	2652
+World	1
+Europe	13
+Cyprus	2648
+Ayia Napa	2653
+Nissi Bay	2890
+World	1
+Europe	13
+Cyprus	2648
+Polis	2654
+World	1
+Europe	13
+Cyprus	2648
+Latchi	2657
+World	1
+Europe	13
+Cyprus	2648
+Pissouri	2658
+World	1
+Europe	13
+Cyprus	2648
+Coral Bay	2660
+World	1
+Europe	13
+Cyprus	2648
+Paralimni	2711
+World	1
+Europe	13
+Cyprus	2648
+Lara Bay	2736
+World	1
+Europe	13
+Cyprus	2648
+Kissonerga	3193
+World	1
+Europe	13
+Northern Cyprus (TRNC)	2863
+Kyrenia	2865
+Bellapais	3033
+World	1
+Europe	13
+Northern Cyprus (TRNC)	2863
+Famagusta	2866
+World	1
+Europe	13
+Northern Cyprus (TRNC)	2863
+Bogaz	3387
+World	1
+Europe	13
+Monaco	2952
+Monte Carlo	2953
+World	1
+Europe	13
+Wales	2964
+World	1
+Europe	13
+Montenegro	3047
+Budva	3060
+World	1
+Europe	13
+Switzerland Ski	3097
+World	1
+Europe	13
+Armenia	3112
+World	1
+Africa	14
+Egypt	21
+Cairo	387
+World	1
+Africa	14
+Egypt	21
+Aswan	388
+World	1
+Africa	14
+Egypt	21
+Hurghada	389
+Sahl Hasheesh	3090
+World	1
+Africa	14
+Egypt	21
+Hurghada	389
+Soma Bay	3091
+World	1
+Africa	14
+Egypt	21
+Hurghada	389
+Bur Safaga	3093
+World	1
+Africa	14
+Egypt	21
+Luxor	390
+Luxor  Nile Cruise	2932
+World	1
+Africa	14
+Egypt	21
+Sharm el Sheikh	391
+Ras Um Sid-Hadaba	3275
+World	1
+Africa	14
+Egypt	21
+Sharm el Sheikh	391
+Na'ama Bay	2686
+World	1
+Africa	14
+Egypt	21
+Sharm el Sheikh	391
+Hadaba	2875
+World	1
+Africa	14
+Egypt	21
+Sharm el Sheikh	391
+Nabq	3088
+World	1
+Africa	14
+Egypt	21
+Sharm el Sheikh	391
+El Sid Hill	3089
+World	1
+Africa	14
+Egypt	21
+Sharm el Sheikh	391
+Sharks Bay	3195
+World	1
+Africa	14
+Egypt	21
+Nuweiba	1485
+World	1
+Africa	14
+Egypt	21
+Taba	1486
+World	1
+Africa	14
+Egypt	21
+El Gouna	1487
+World	1
+Africa	14
+Egypt	21
+Dahab	1507
+World	1
+Africa	14
+Egypt	21
+Sinai Beach	1592
+World	1
+Africa	14
+Egypt	21
+Alexandria	1760
+World	1
+Africa	14
+Egypt	21
+Taba Heights	2077
+World	1
+Africa	14
+Egypt	21
+Marsa Alam	2178
+World	1
+Africa	14
+Egypt	21
+Safaga	2548
+World	1
+Africa	14
+Egypt	21
+El Quseir	2621
+World	1
+Africa	14
+Egypt	21
+El Alamein	2639
+World	1
+Africa	14
+Egypt	21
+Makadi Bay	2720
+World	1
+Africa	14
+Egypt	21
+Nile Cruise	2928
+World	1
+Africa	14
+Tunisia	22
+Borj Cedria	3315
+World	1
+Africa	14
+Tunisia	22
+Hammamet	392
+World	1
+Africa	14
+Tunisia	22
+Monastir	393
+World	1
+Africa	14
+Tunisia	22
+Skanes	394
+World	1
+Africa	14
+Tunisia	22
+Nabeul	395
+World	1
+Africa	14
+Tunisia	22
+Port el Kantaoui	396
+World	1
+Africa	14
+Tunisia	22
+Sousse	397
+World	1
+Africa	14
+Tunisia	22
+Djerba	398
+World	1
+Africa	14
+Tunisia	22
+Tabarka	399
+World	1
+Africa	14
+Tunisia	22
+Mahdia	400
+World	1
+Africa	14
+Tunisia	22
+Zarzis	401
+World	1
+Africa	14
+Tunisia	22
+Sfax	402
+World	1
+Africa	14
+Tunisia	22
+Kerkennah	1490
+World	1
+Africa	14
+Tunisia	22
+Tunis	1792
+World	1
+Africa	14
+Tunisia	22
+Hammamet Yasmine	2554
+Yasmine Hammamet	2912
+World	1
+Africa	14
+Tunisia	22
+Gammarth	3046
+World	1
+Africa	14
+Tunisia	22
+Tozeur	3160
+World	1
+Africa	14
+Morocco	23
+Agadir	403
+World	1
+Africa	14
+Morocco	23
+Casablanca	404
+World	1
+Africa	14
+Morocco	23
+Essaouira	405
+World	1
+Africa	14
+Morocco	23
+Marrakech	406
+World	1
+Africa	14
+Morocco	23
+Tangier	407
+World	1
+Africa	14
+Morocco	23
+Taroudant	1967
+World	1
+Africa	14
+Morocco	23
+Fez	2841
+World	1
+Africa	14
+Morocco	23
+Erfoud	3239
+World	1
+Africa	14
+Morocco	23
+Rabat	3240
+World	1
+Africa	14
+Morocco	23
+Ouarzazate	3241
+World	1
+Africa	14
+Kenya	742
+Galu Beach	3406
+World	1
+Africa	14
+Kenya	742
+Nairobi Region	753
+Nairobi	757
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Bamburi Beach	759
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Diani Beach	760
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Kikambala	761
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Kilifi Bay	762
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Malindi	766
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Mombasa	767
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Nyali Beach	768
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Shanzu Beach	769
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+Watamu	771
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+South Mombasa	3369
+World	1
+Africa	14
+Kenya	742
+Mombasa Region	758
+North Mombasa	3368
+World	1
+Africa	14
+Kenya	742
+East Coast	2407
+Lamu	2411
+World	1
+Africa	14
+Kenya	742
+Tsavo Region	2412
+World	1
+Africa	14
+Kenya	742
+Amboseli	2413
+World	1
+Africa	14
+Kenya	742
+Masai Mara	2414
+World	1
+Africa	14
+Kenya	742
+Lake Victoria	2415
+Kisumu	2420
+World	1
+Africa	14
+Kenya	742
+Rift Valley	2416
+World	1
+Africa	14
+Kenya	742
+Turkana	2417
+World	1
+Africa	14
+Kenya	742
+Mount Kenya	2418
+World	1
+Africa	14
+Kenya	742
+Sumburu	2419
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Banjul	748
+Brufut	3074
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Cape Point	749
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Bakau	750
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Kotu	751
+Kotu Beach	2925
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Kololi	752
+Kololi Beach	2877
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Serrekunda	2145
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Tafbel	2149
+World	1
+Africa	14
+Gambia	743
+West Gambia	747
+Bijilo	3066
+World	1
+Africa	14
+Mauritius	772
+Bel Ombre	3400
+World	1
+Africa	14
+Mauritius	772
+Pointe aux Piments	3402
+World	1
+Africa	14
+Mauritius	772
+Grand Gaube	773
+World	1
+Africa	14
+Mauritius	772
+Grand Baie	774
+World	1
+Africa	14
+Mauritius	772
+Port Louis	775
+World	1
+Africa	14
+Mauritius	772
+Belle Mare	776
+World	1
+Africa	14
+Mauritius	772
+Le Morne	777
+World	1
+Africa	14
+Mauritius	772
+Flic en Flac	778
+World	1
+Africa	14
+Mauritius	772
+Pointe Jerome	2914
+World	1
+Africa	14
+Mauritius	772
+Rodrigues	3173
+World	1
+Africa	14
+Mauritius	772
+Trou D'eau Douce	3403
+World	1
+Africa	14
+Mauritius	772
+Balaclava	3401
+World	1
+Africa	14
+Seychelles	779
+Mahe	780
+Beau Vallon Bay	781
+World	1
+Africa	14
+Seychelles	779
+Mahe	780
+Grand Anse Mahe	784
+World	1
+Africa	14
+Seychelles	779
+Mahe	780
+Anse Intendance	785
+World	1
+Africa	14
+Seychelles	779
+Mahe	780
+Anse Forbance	786
+World	1
+Africa	14
+Seychelles	779
+Mahe	780
+Victoria	787
+World	1
+Africa	14
+Seychelles	779
+Mahe	780
+Anse Royale	788
+World	1
+Africa	14
+Seychelles	779
+La Digue	789
+World	1
+Africa	14
+Seychelles	779
+Praslin	790
+World	1
+Africa	14
+Seychelles	779
+Bird Island	791
+World	1
+Africa	14
+Seychelles	779
+Desroches	792
+World	1
+Africa	14
+South Africa	1209
+Johannesburg	1214
+World	1
+Africa	14
+South Africa	1209
+Cape Town	1240
+Camps Bay	2904
+World	1
+Africa	14
+South Africa	1209
+Durban	1622
+World	1
+Africa	14
+South Africa	1209
+Natal-S.Africa	1702
+World	1
+Africa	14
+South Africa	1209
+East London	2321
+World	1
+Africa	14
+South Africa	1209
+Port Elizabeth	2431
+World	1
+Africa	14
+South Africa	1209
+George	2513
+World	1
+Africa	14
+South Africa	1209
+Kimberley-S.Africa	2516
+World	1
+Africa	14
+South Africa	1209
+Stellenbosch	3036
+World	1
+Africa	14
+South Africa	1209
+Free State	3125
+World	1
+Africa	14
+South Africa	1209
+Kruger National Park	3130
+World	1
+Africa	14
+Nigeria	1210
+Plateau	1738
+Abuja	1739
+World	1
+Africa	14
+Nigeria	1210
+Kano State	1765
+Kano	1766
+World	1
+Africa	14
+Nigeria	1210
+Lagos-Nigeria	2518
+World	1
+Africa	14
+Zimbabwe	1466
+Harare	1467
+World	1
+Africa	14
+Zimbabwe	1466
+Bulawayo	1763
+World	1
+Africa	14
+Zimbabwe	1466
+Victoria Falls	2100
+World	1
+Africa	14
+Ghana	1623
+Accra	1624
+World	1
+Africa	14
+Tanzania	1661
+Zanzibar	1973
+World	1
+Africa	14
+Tanzania	1661
+Dar Es Salaam	1974
+World	1
+Africa	14
+Tanzania	1661
+Kilimanjaro	1975
+World	1
+Africa	14
+Uganda	1679
+Entebbe	2530
+World	1
+Africa	14
+Uganda	1679
+Malaba	2531
+World	1
+Africa	14
+Ivory Coast	1736
+Abidjan	1737
+World	1
+Africa	14
+Eritrea	1743
+Asmara	1744
+World	1
+Africa	14
+Rwanda	1745
+Kigali	1746
+World	1
+Africa	14
+Congo	1748
+Kinshasa	1749
+World	1
+Africa	14
+Congo	1748
+Brazzaville	2275
+World	1
+Africa	14
+Gabon	1752
+Libreville	1753
+World	1
+Africa	14
+Malawi	1754
+Lilongwe	1755
+World	1
+Africa	14
+Malawi	1754
+Blantyre	2317
+World	1
+Africa	14
+Zambia	1756
+Lusaka	1757
+World	1
+Africa	14
+Ethiopia	1758
+Addis Ababa	1759
+World	1
+Africa	14
+Sudan	1767
+Kurdufan	1768
+Khartoum	1769
+World	1
+Africa	14
+Guinea	1770
+Conakry	1771
+World	1
+Africa	14
+Algeria	1774
+Algiers	1775
+World	1
+Africa	14
+Namibia	1794
+Windhoek	1795
+World	1
+Africa	14
+Cameroon	1804
+Douala	1805
+World	1
+Africa	14
+Mozambique	2124
+Maputo	2132
+World	1
+Africa	14
+Angola	2194
+Luanda	2526
+World	1
+Africa	14
+Benin	2195
+Cotonou	2253
+World	1
+Africa	14
+Burundi	2197
+Bujumbura	2270
+World	1
+Africa	14
+Equatorial Guinea	2201
+World	1
+Africa	14
+Guinea-Bissau	2203
+World	1
+Africa	14
+Mali	2209
+Bamako	2303
+World	1
+Africa	14
+Cape Verde	2224
+Sao Tiago	2225
+Praia	2226
+World	1
+Africa	14
+Cape Verde	2224
+Boa Vista	3019
+Sal Rei	3020
+World	1
+Africa	14
+Cape Verde	2224
+Sal	3021
+Santa Maria-Sal	3022
+World	1
+Africa	14
+Cape Verde	2224
+Sal	3021
+Espargos	3027
+World	1
+Africa	14
+Cape Verde	2224
+Sao Vicente	3078
+World	1
+Africa	14
+Cape Verde	2224
+Fogo	3123
+World	1
+Africa	14
+Cape Verde	2224
+Brava	3124
+World	1
+Africa	14
+Cape Verde	2224
+Maio	3136
+World	1
+Africa	14
+Cape Verde	2224
+Santo Antao	3168
+World	1
+Africa	14
+Cape Verde	2224
+Sao Nicolau	3169
+World	1
+Africa	14
+Reunion	2227
+Saint Denis	2228
+World	1
+Africa	14
+Senegal	2234
+Dakar	2235
+World	1
+Africa	14
+Sierra Leone	2236
+Freetown	2237
+World	1
+Africa	14
+Botswana	2942
+Gaborone	2943
+World	1
+Africa	14
+Lesotho	3133
+World	1
+Africa	14
+Madagascar	3135
+World	1
+Africa	14
+Swaziland	3172
+World	1
+North America	411
+United States	412
+Florida	413
+Amelia Island	430
+World	1
+North America	411
+United States	412
+Florida	413
+Boca Raton	431
+World	1
+North America	411
+United States	412
+Florida	413
+Captiva Island	432
+World	1
+North America	411
+United States	412
+Florida	413
+Cape Haze	433
+World	1
+North America	411
+United States	412
+Florida	413
+Clearwater Beach	434
+World	1
+North America	411
+United States	412
+Florida	413
+Daytona Beach	435
+World	1
+North America	411
+United States	412
+Florida	413
+Duck Key	436
+World	1
+North America	411
+United States	412
+Florida	413
+Fort Lauderdale	437
+World	1
+North America	411
+United States	412
+Florida	413
+Fort Myers Beach	438
+World	1
+North America	411
+United States	412
+Florida	413
+Hollywood Beach	439
+World	1
+North America	411
+United States	412
+Florida	413
+Upper Matecumbe Key	440
+World	1
+North America	411
+United States	412
+Florida	413
+Key Biscayne	442
+World	1
+North America	411
+United States	412
+Florida	413
+Key Largo	443
+World	1
+North America	411
+United States	412
+Florida	413
+Key West	444
+World	1
+North America	411
+United States	412
+Florida	413
+Kissimmee	445
+World	1
+North America	411
+United States	412
+Florida	413
+Lake Buena Vista	447
+World	1
+North America	411
+United States	412
+Florida	413
+Longboat Key	449
+World	1
+North America	411
+United States	412
+Florida	413
+Vaca Key	450
+World	1
+North America	411
+United States	412
+Florida	413
+Marco Island	451
+World	1
+North America	411
+United States	412
+Florida	413
+Miami	452
+World	1
+North America	411
+United States	412
+Florida	413
+Naples Beach	453
+World	1
+North America	411
+United States	412
+Florida	413
+Orlando	454
+Universal Studios Orlando	3372
+World	1
+North America	411
+United States	412
+Florida	413
+Orlando	454
+International Drive	2675
+World	1
+North America	411
+United States	412
+Florida	413
+Orlando	454
+Walt Disney World(R) Resort	2839
+World	1
+North America	411
+United States	412
+Florida	413
+Palm Beach	455
+World	1
+North America	411
+United States	412
+Florida	413
+St Petersburg (Florida)	456
+World	1
+North America	411
+United States	412
+Florida	413
+St Petersburg Beach	457
+World	1
+North America	411
+United States	412
+Florida	413
+Redington Beach	458
+World	1
+North America	411
+United States	412
+Florida	413
+Sarasota	459
+World	1
+North America	411
+United States	412
+Florida	413
+Sanibel Island	460
+World	1
+North America	411
+United States	412
+Florida	413
+Treasure Island	461
+World	1
+North America	411
+United States	412
+Florida	413
+Tampa	1237
+World	1
+North America	411
+United States	412
+Florida	413
+Jacksonville	1551
+World	1
+North America	411
+United States	412
+Florida	413
+West Palm Beach	1552
+World	1
+North America	411
+United States	412
+Florida	413
+Pensacola	1553
+World	1
+North America	411
+United States	412
+Florida	413
+Fort Walton	1572
+World	1
+North America	411
+United States	412
+Florida	413
+Gulfport	1845
+World	1
+North America	411
+United States	412
+Florida	413
+Orlando Sanford	1897
+World	1
+North America	411
+United States	412
+Florida	413
+St Augustine	1938
+World	1
+North America	411
+United States	412
+Florida	413
+Anastasia Island	1939
+World	1
+North America	411
+United States	412
+Florida	413
+Fort Myers	2106
+World	1
+North America	411
+United States	412
+Florida	413
+Cocoa Beach	2143
+World	1
+North America	411
+United States	412
+Florida	413
+Gainesville	2331
+World	1
+North America	411
+United States	412
+Florida	413
+Tallahassee	2468
+World	1
+North America	411
+United States	412
+Florida	413
+Panama City-Florida	2482
+World	1
+North America	411
+United States	412
+Florida	413
+Melbourne FL	2498
+World	1
+North America	411
+United States	412
+Florida	413
+Clearwater	2676
+World	1
+North America	411
+United States	412
+Florida	413
+Gulf Coast of Florida	2869
+World	1
+North America	411
+United States	412
+Florida	413
+Florida Keys	2870
+World	1
+North America	411
+United States	412
+Maryland	414
+Baltimore	466
+World	1
+North America	411
+United States	412
+Louisiana	462
+New Orleans	464
+World	1
+North America	411
+United States	412
+Louisiana	462
+Shreveport	1523
+World	1
+North America	411
+United States	412
+Louisiana	462
+Baton Rouge	1827
+World	1
+North America	411
+United States	412
+Louisiana	462
+Lake Charles	1850
+World	1
+North America	411
+United States	412
+Texas	463
+Houston	465
+World	1
+North America	411
+United States	412
+Texas	463
+Dallas	467
+World	1
+North America	411
+United States	412
+Texas	463
+San Antonio-Texas	468
+World	1
+North America	411
+United States	412
+Texas	463
+Austin	1646
+World	1
+North America	411
+United States	412
+Texas	463
+Abilene	1823
+World	1
+North America	411
+United States	412
+Texas	463
+Amarillo	1826
+World	1
+North America	411
+United States	412
+Texas	463
+Beaumont	1828
+World	1
+North America	411
+United States	412
+Texas	463
+Brownsville	1829
+World	1
+North America	411
+United States	412
+Texas	463
+College Station	1830
+World	1
+North America	411
+United States	412
+Texas	463
+Corpus Christi	1831
+World	1
+North America	411
+United States	412
+Texas	463
+San Angelo	1834
+World	1
+North America	411
+United States	412
+Texas	463
+Tyler	1836
+World	1
+North America	411
+United States	412
+Texas	463
+Waco	1837
+World	1
+North America	411
+United States	412
+Texas	463
+El Paso	1838
+World	1
+North America	411
+United States	412
+Texas	463
+Harlingen	1846
+World	1
+North America	411
+United States	412
+Texas	463
+Killeen	1849
+World	1
+North America	411
+United States	412
+Texas	463
+Laredo	1851
+World	1
+North America	411
+United States	412
+Texas	463
+Lubbock	1852
+World	1
+North America	411
+United States	412
+Texas	463
+McAllen	1855
+World	1
+North America	411
+United States	412
+Texas	463
+Midland	1856
+World	1
+North America	411
+United States	412
+Texas	463
+Wichita Falls	2463
+World	1
+North America	411
+United States	412
+Massachusetts	470
+Boston	471
+World	1
+North America	411
+United States	412
+Massachusetts	470
+Cape Cod	1493
+World	1
+North America	411
+United States	412
+Massachusetts	470
+Nantucket	1606
+World	1
+North America	411
+United States	412
+Massachusetts	470
+Martha's Vineyard	1609
+World	1
+North America	411
+United States	412
+Massachusetts	470
+Hyannis	1617
+World	1
+North America	411
+United States	412
+Massachusetts	470
+Plymouth	2346
+World	1
+North America	411
+United States	412
+New York	472
+New York City	478
+Albany	1608
+World	1
+North America	411
+United States	412
+New York	472
+Buffalo	1614
+World	1
+North America	411
+United States	412
+New York	472
+White Plains	1616
+World	1
+North America	411
+United States	412
+New York	472
+Nassau County	1630
+World	1
+North America	411
+United States	412
+New York	472
+Syracuse-N.Y.	1641
+World	1
+North America	411
+United States	412
+New York	472
+Rochester	1642
+World	1
+North America	411
+United States	412
+New York	472
+Binghamton	2314
+World	1
+North America	411
+United States	412
+New York	472
+Elmira	2324
+World	1
+North America	411
+United States	412
+New York	472
+Ithaca NY	2388
+World	1
+North America	411
+United States	412
+District of Columbia	473
+Washington	479
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Philadelphia	480
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Pittsburgh	481
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Harrisburg	1640
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Middletown	2141
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Allentown	2245
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Bethlehem PA	2246
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+State College	2470
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Scranton	2473
+World	1
+North America	411
+United States	412
+Pennsylvania	474
+Erie	2606
+World	1
+North America	411
+United States	412
+Georgia	475
+Atlanta	482
+World	1
+North America	411
+United States	412
+Georgia	475
+Savannah	1561
+World	1
+North America	411
+United States	412
+Georgia	475
+Valdosta	2465
+World	1
+North America	411
+United States	412
+Michigan	476
+Detroit	483
+World	1
+North America	411
+United States	412
+Michigan	476
+Kalamazoo	1575
+World	1
+North America	411
+United States	412
+Michigan	476
+Flint	1582
+World	1
+North America	411
+United States	412
+Michigan	476
+Grand Rapids	1584
+World	1
+North America	411
+United States	412
+Michigan	476
+Lansing	1588
+World	1
+North America	411
+United States	412
+Michigan	476
+Bay City	1590
+World	1
+North America	411
+United States	412
+Michigan	476
+Saginaw	2479
+World	1
+North America	411
+United States	412
+Michigan	476
+Hancock	2492
+World	1
+North America	411
+United States	412
+Michigan	476
+Muskegon	2504
+World	1
+North America	411
+United States	412
+New Jersey	477
+Newark	484
+World	1
+North America	411
+United States	412
+New Jersey	477
+Burlington	1841
+World	1
+North America	411
+United States	412
+New Jersey	477
+Atlantic City	2135
+World	1
+North America	411
+United States	412
+Ohio	485
+Cincinnati	487
+World	1
+North America	411
+United States	412
+Ohio	485
+Cleveland	488
+World	1
+North America	411
+United States	412
+Ohio	485
+Toledo	1545
+World	1
+North America	411
+United States	412
+Ohio	485
+Columbus	1576
+World	1
+North America	411
+United States	412
+Ohio	485
+Dayton	1578
+World	1
+North America	411
+United States	412
+Ohio	485
+Akron	1824
+World	1
+North America	411
+United States	412
+North Carolina	486
+Charlotte	489
+World	1
+North America	411
+United States	412
+North Carolina	486
+Raleigh	490
+World	1
+North America	411
+United States	412
+North Carolina	486
+Fayetteville	1566
+World	1
+North America	411
+United States	412
+North Carolina	486
+Asheville	1574
+World	1
+North America	411
+United States	412
+North Carolina	486
+Sanford	1631
+World	1
+North America	411
+United States	412
+North Carolina	486
+Orange County	1840
+World	1
+North America	411
+United States	412
+North Carolina	486
+Wilmington	2142
+World	1
+North America	411
+United States	412
+Illinois	491
+Chicago	501
+World	1
+North America	411
+United States	412
+Illinois	491
+Springfield	1524
+World	1
+North America	411
+United States	412
+Illinois	491
+Champaign	1564
+World	1
+North America	411
+United States	412
+Illinois	491
+Peoria	2342
+World	1
+North America	411
+United States	412
+Illinois	491
+Bloomington	2487
+World	1
+North America	411
+United States	412
+Illinois	491
+Marion	2496
+World	1
+North America	411
+United States	412
+Illinois	491
+Moline	2501
+World	1
+North America	411
+United States	412
+Alabama	494
+Birmingham AL	503
+World	1
+North America	411
+United States	412
+Alabama	494
+Huntsville-Decatur	1586
+World	1
+North America	411
+United States	412
+Alabama	494
+Mobile	1645
+World	1
+North America	411
+United States	412
+Alabama	494
+Dothan	2318
+World	1
+North America	411
+United States	412
+Alabama	494
+Montgomery	2503
+World	1
+North America	411
+United States	412
+Colorado	495
+Denver	504
+World	1
+North America	411
+United States	412
+Colorado	495
+Winter Park	1148
+World	1
+North America	411
+United States	412
+Colorado	495
+Breckenridge	1252
+World	1
+North America	411
+United States	412
+Colorado	495
+Keystone	1253
+World	1
+North America	411
+United States	412
+Colorado	495
+Arapahoe Basin	1254
+World	1
+North America	411
+United States	412
+Colorado	495
+Snowmass	1275
+World	1
+North America	411
+United States	412
+Colorado	495
+Buttermilk	1276
+World	1
+North America	411
+United States	412
+Colorado	495
+Crested Butte	1427
+World	1
+North America	411
+United States	412
+Colorado	495
+Copper Mountain	1428
+World	1
+North America	411
+United States	412
+Colorado	495
+Steamboat	1429
+World	1
+North America	411
+United States	412
+Colorado	495
+Vail	1457
+World	1
+North America	411
+United States	412
+Colorado	495
+Fort Collins	1634
+World	1
+North America	411
+United States	412
+Colorado	495
+Longmont	1635
+World	1
+North America	411
+United States	412
+Colorado	495
+Telluride	1962
+World	1
+North America	411
+United States	412
+Colorado	495
+Colorado Springs	2121
+World	1
+North America	411
+United States	412
+Colorado	495
+Aspen	2283
+World	1
+North America	411
+United States	412
+Colorado	495
+Durango	2320
+World	1
+North America	411
+United States	412
+Kansas	496
+Kansas City	505
+World	1
+North America	411
+United States	412
+Kansas	496
+Wichita	1567
+World	1
+North America	411
+United States	412
+Missouri	497
+St Louis	1550
+World	1
+North America	411
+United States	412
+Tennessee	498
+Memphis	507
+World	1
+North America	411
+United States	412
+Tennessee	498
+Nashville	508
+World	1
+North America	411
+United States	412
+Tennessee	498
+Chattanooga	1555
+World	1
+North America	411
+United States	412
+Tennessee	498
+Knoxville	1562
+World	1
+North America	411
+United States	412
+Tennessee	498
+Kingsport	2406
+World	1
+North America	411
+United States	412
+Utah	499
+Salt Lake City	509
+World	1
+North America	411
+United States	412
+Utah	499
+Deer Valley	1432
+World	1
+North America	411
+United States	412
+Utah	499
+Park City	1433
+World	1
+North America	411
+United States	412
+Utah	499
+Snowbird	1434
+World	1
+North America	411
+United States	412
+California	500
+Anaheim	510
+World	1
+North America	411
+United States	412
+California	500
+Cambria	511
+World	1
+North America	411
+United States	412
+California	500
+Los Angeles	512
+Monroe	1832
+World	1
+North America	411
+United States	412
+California	500
+Marina Del Ray	513
+World	1
+North America	411
+United States	412
+California	500
+Palm springs	514
+World	1
+North America	411
+United States	412
+California	500
+San Diego	515
+World	1
+North America	411
+United States	412
+California	500
+San Francisco	516
+World	1
+North America	411
+United States	412
+California	500
+San Luis Obispo	517
+World	1
+North America	411
+United States	412
+California	500
+Santa Barbara	518
+World	1
+North America	411
+United States	412
+California	500
+Santa Monica	519
+World	1
+North America	411
+United States	412
+California	500
+Santa Rosa	520
+World	1
+North America	411
+United States	412
+California	500
+Newport Beach	521
+World	1
+North America	411
+United States	412
+California	500
+Langua Beach	522
+World	1
+North America	411
+United States	412
+California	500
+Lake Tahoe	1149
+World	1
+North America	411
+United States	412
+California	500
+Heavenly Valley	1323
+World	1
+North America	411
+United States	412
+California	500
+Squaw Valley	1324
+World	1
+North America	411
+United States	412
+California	500
+Kirkwood	1325
+World	1
+North America	411
+United States	412
+California	500
+Northstar at Tahoe	1326
+World	1
+North America	411
+United States	412
+California	500
+Alpine Meadows	1327
+World	1
+North America	411
+United States	412
+California	500
+Sierra at Tahoe	1328
+World	1
+North America	411
+United States	412
+California	500
+Mammoth Mountain	1437
+World	1
+North America	411
+United States	412
+California	500
+Fresno	1525
+World	1
+North America	411
+United States	412
+California	500
+Monterey	1526
+World	1
+North America	411
+United States	412
+California	500
+Sacramento	1527
+World	1
+North America	411
+United States	412
+California	500
+Santa Ana	1528
+World	1
+North America	411
+United States	412
+California	500
+Lafayette	1687
+World	1
+North America	411
+United States	412
+California	500
+Oakland	1839
+World	1
+North America	411
+United States	412
+California	500
+San Jose-California	1860
+World	1
+North America	411
+United States	412
+California	500
+Chico	2258
+World	1
+North America	411
+United States	412
+California	500
+Carlsbad	2266
+World	1
+North America	411
+United States	412
+California	500
+Bakersfield	2301
+World	1
+North America	411
+United States	412
+California	500
+Ontario CA	2483
+World	1
+North America	411
+United States	412
+California	500
+Sierra Nevada	3114
+World	1
+North America	411
+United States	412
+Nevada	523
+Las Vegas	526
+World	1
+North America	411
+United States	412
+Nevada	523
+Reno	1652
+World	1
+North America	411
+United States	412
+Oregon	524
+Portland-Oregon	527
+World	1
+North America	411
+United States	412
+Oregon	524
+Eugene	1649
+World	1
+North America	411
+United States	412
+Oregon	524
+Redmond	1654
+World	1
+North America	411
+United States	412
+Oregon	524
+Medford	2497
+World	1
+North America	411
+United States	412
+Washington State	525
+Seattle	528
+World	1
+North America	411
+United States	412
+Washington State	525
+Spokane	1653
+World	1
+North America	411
+United States	412
+Vermont	1139
+Stowe	1140
+World	1
+North America	411
+United States	412
+Vermont	1139
+Killington	1396
+World	1
+North America	411
+United States	412
+Vermont	1139
+Mount Snow	1397
+World	1
+North America	411
+United States	412
+Vermont	1139
+Sugarbush	1398
+World	1
+North America	411
+United States	412
+Vermont	1139
+Smugglers Notch	1419
+World	1
+North America	411
+United States	412
+Vermont	1139
+Greensboro	1615
+World	1
+North America	411
+United States	412
+Hawaii	1179
+Honolulu	1532
+Lihue	1691
+World	1
+North America	411
+United States	412
+Hawaii	1179
+Maui	1533
+Kahului	1534
+World	1
+North America	411
+United States	412
+Hawaii	1179
+Hilo	1535
+World	1
+North America	411
+United States	412
+Hawaii	1179
+Kona	1536
+Kalului	1889
+World	1
+North America	411
+United States	412
+Hawaii	1179
+Lihne	1537
+World	1
+North America	411
+United States	412
+Hawaii	1179
+Kauai Island	2403
+World	1
+North America	411
+United States	412
+New Hampshire	1394
+Attitash	1395
+World	1
+North America	411
+United States	412
+New Hampshire	1394
+Manchester NH	2495
+World	1
+North America	411
+United States	412
+Maine	1399
+Sugarloaf	1400
+World	1
+North America	411
+United States	412
+Maine	1399
+Sunday River	1401
+World	1
+North America	411
+United States	412
+Maine	1399
+Portland-Maine	1922
+World	1
+North America	411
+United States	412
+New Mexico	1430
+Taos	1431
+World	1
+North America	411
+United States	412
+New Mexico	1430
+Albuquerque	1636
+World	1
+North America	411
+United States	412
+Wyoming	1435
+Jackson Hole	1436
+World	1
+North America	411
+United States	412
+Arizona	1482
+Phoenix-Arizona	1484
+World	1
+North America	411
+United States	412
+Arizona	1482
+Tucson	1688
+World	1
+North America	411
+United States	412
+Minnesota	1517
+Minneapolis	1518
+World	1
+North America	411
+United States	412
+Minnesota	1517
+Duluth	2319
+World	1
+North America	411
+United States	412
+Nebraska	1521
+Omaha	1522
+World	1
+North America	411
+United States	412
+Nebraska	1521
+Lincoln	1570
+World	1
+North America	411
+United States	412
+Alaska	1530
+Fairbanks	1960
+World	1
+North America	411
+United States	412
+Alaska	1530
+Anchorage	1968
+World	1
+North America	411
+United States	412
+Iowa	1539
+Dubuque	1540
+World	1
+North America	411
+United States	412
+Iowa	1539
+Cedar Rapids	1563
+World	1
+North America	411
+United States	412
+Iowa	1539
+Des Moines	1565
+World	1
+North America	411
+United States	412
+Indiana	1541
+Valparaiso	1571
+World	1
+North America	411
+United States	412
+Indiana	1541
+Evansville	1581
+World	1
+North America	411
+United States	412
+Indiana	1541
+Fort Wayne	1583
+World	1
+North America	411
+United States	412
+Indiana	1541
+Indianapolis	1587
+World	1
+North America	411
+United States	412
+Kentucky	1543
+Louisville	1544
+World	1
+North America	411
+United States	412
+Kentucky	1543
+Lexington	1589
+World	1
+North America	411
+United States	412
+South Carolina	1548
+Columbia	1549
+World	1
+North America	411
+United States	412
+South Carolina	1548
+Myrtle Beach	1556
+World	1
+North America	411
+United States	412
+South Carolina	1548
+Charleston	1577
+World	1
+North America	411
+United States	412
+South Carolina	1548
+Hilton Head	1585
+World	1
+North America	411
+United States	412
+South Carolina	1548
+Greenville	1842
+World	1
+North America	411
+United States	412
+Virginia	1557
+Norfolk	1558
+World	1
+North America	411
+United States	412
+Virginia	1557
+Richmond	1559
+World	1
+North America	411
+United States	412
+Virginia	1557
+Roanoke	1560
+World	1
+North America	411
+United States	412
+Virginia	1557
+Williamsburg	1591
+World	1
+North America	411
+United States	412
+Virginia	1557
+Charlottesville	2265
+World	1
+North America	411
+United States	412
+Virginia	1557
+Newport News	2484
+World	1
+North America	411
+United States	412
+Virginia	1557
+Lynchburg	2494
+World	1
+North America	411
+United States	412
+Arkansas	1568
+Little Rock	1569
+World	1
+North America	411
+United States	412
+Arkansas	1568
+Eureka	1607
+World	1
+North America	411
+United States	412
+Oklahoma	1637
+Oklahoma City	1638
+World	1
+North America	411
+United States	412
+Oklahoma	1637
+Tulsa	1835
+World	1
+North America	411
+United States	412
+Oklahoma	1637
+Lawton	2432
+World	1
+North America	411
+United States	412
+Montana	1643
+Billings	1644
+World	1
+North America	411
+United States	412
+Montana	1643
+Big Mountain	2125
+World	1
+North America	411
+United States	412
+Montana	1643
+Bozeman	2286
+World	1
+North America	411
+United States	412
+Montana	1643
+Great Falls	2352
+World	1
+North America	411
+United States	412
+Montana	1643
+Helena	2360
+World	1
+North America	411
+United States	412
+Montana	1643
+Kalispell	2397
+World	1
+North America	411
+United States	412
+Montana	1643
+Boseman	2488
+World	1
+North America	411
+United States	412
+Montana	1643
+Missoula	2500
+World	1
+North America	411
+United States	412
+Idaho	1647
+Boise	1648
+World	1
+North America	411
+United States	412
+Idaho	1647
+Idaho Falls	2377
+World	1
+North America	411
+United States	412
+North Dakota	1650
+Fargo	1651
+World	1
+North America	411
+United States	412
+North Dakota	1650
+Bismarck	1686
+World	1
+North America	411
+United States	412
+Rhode Island	1689
+Providence	1690
+World	1
+North America	411
+United States	412
+Connecticut	1843
+Hartford	1844
+World	1
+North America	411
+United States	412
+Connecticut	1843
+New Haven	2506
+World	1
+North America	411
+United States	412
+Mississippi	1847
+Jackson	1848
+World	1
+North America	411
+United States	412
+Mississippi	1847
+Meridian	2499
+World	1
+North America	411
+United States	412
+Wisconsin	1853
+Madison	1854
+World	1
+North America	411
+United States	412
+Wisconsin	1853
+Milwaukee	1857
+World	1
+North America	411
+United States	412
+Wisconsin	1853
+Appleton	2279
+World	1
+North America	411
+United States	412
+Wisconsin	1853
+Green Bay	2353
+World	1
+North America	411
+United States	412
+Wisconsin	1853
+La Crosse	2428
+World	1
+North America	411
+United States	412
+Wisconsin	1853
+Wausau	2489
+World	1
+North America	411
+United States	412
+South Dakota	2471
+Sioux Falls	2472
+World	1
+North America	411
+United States	412
+South Dakota	2471
+Rapid City	2481
+World	1
+North America	411
+United States	412
+West Virginia	2485
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Vancouver	536
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Victoria BC	537
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Whistler	970
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Blackcomb	971
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Fernie	1257
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Kimberley-Canada	1258
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Panorama Mountain Village	1956
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Kicking Horse	2118
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Kamloops	2398
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Kelowna	2404
+World	1
+North America	411
+Canada	418
+British Columbia	529
+Nanaimo	2505
+World	1
+North America	411
+Canada	418
+Alberta	530
+Edmonton	538
+World	1
+North America	411
+Canada	418
+Alberta	530
+Calgary	539
+World	1
+North America	411
+Canada	418
+Alberta	530
+Banff	966
+Mount Norquay	1244
+World	1
+North America	411
+Canada	418
+Alberta	530
+Banff	966
+Mystic Ridge	1245
+World	1
+North America	411
+Canada	418
+Alberta	530
+Canmore	967
+World	1
+North America	411
+Canada	418
+Alberta	530
+Lake Louise	968
+World	1
+North America	411
+Canada	418
+Alberta	530
+Jasper	969
+World	1
+North America	411
+Canada	418
+Alberta	530
+Sunshine Village	1246
+World	1
+North America	411
+Canada	418
+Alberta	530
+Fortress Mountain	1255
+World	1
+North America	411
+Canada	418
+Manitoba	531
+Winnipeg	540
+World	1
+North America	411
+Canada	418
+Ontario	532
+Toronto	541
+World	1
+North America	411
+Canada	418
+Ontario	532
+Ottawa	542
+World	1
+North America	411
+Canada	418
+Ontario	532
+Niagara Falls	543
+World	1
+North America	411
+Canada	418
+Ontario	532
+Thunder Bay	2467
+World	1
+North America	411
+Canada	418
+Ontario	532
+Sault Ste Marie	2474
+World	1
+North America	411
+Canada	418
+Ontario	532
+London ON	2493
+World	1
+North America	411
+Canada	418
+Ontario	532
+Windsor	2507
+World	1
+North America	411
+Canada	418
+Quebec	533
+Montreal	544
+World	1
+North America	411
+Canada	418
+Quebec	533
+Quebec City	545
+World	1
+North America	411
+Canada	418
+Quebec	533
+Tremblant	965
+World	1
+North America	411
+Canada	418
+Quebec	533
+Levis	1903
+World	1
+North America	411
+Canada	418
+Quebec	533
+Mont Saint Anne	2703
+World	1
+North America	411
+Canada	418
+Nova Scotia	534
+Halifax	546
+World	1
+North America	411
+Canada	418
+Nova Scotia	534
+Sydney Nova Scotia	2469
+World	1
+North America	411
+Canada	418
+Newfoundland	535
+St John's-Newfoundland	547
+World	1
+North America	411
+Canada	418
+Newfoundland	535
+Deer Lake	2249
+World	1
+North America	411
+Canada	418
+Newfoundland	535
+Saint Johns	2478
+World	1
+North America	411
+Canada	418
+Prince Edward Island	2263
+Charlottetown	2264
+World	1
+North America	411
+Canada	418
+New Brunswick	2329
+Fredericton	2330
+World	1
+North America	411
+Canada	418
+New Brunswick	2329
+Saint John	2477
+World	1
+North America	411
+Canada	418
+New Brunswick	2329
+Moncton	2502
+World	1
+North America	411
+Canada	418
+Saskatchewan	2475
+Saskatoon	2476
+World	1
+North America	411
+Canada	418
+Saskatchewan	2475
+Regina	2480
+World	1
+Caribbean	419
+Anguilla	557
+World	1
+Caribbean	419
+Antigua	558
+Dickenson Bay	559
+World	1
+Caribbean	419
+Antigua	558
+St John's-Antigua	560
+World	1
+Caribbean	419
+Antigua	558
+Runaway Bay-Antigua	561
+World	1
+Caribbean	419
+Antigua	558
+Long Bay Resort	3063
+World	1
+Caribbean	419
+Antigua	558
+Jolly Beach	3095
+World	1
+Caribbean	419
+Antigua	558
+Hawksbill Bay	3186
+World	1
+Caribbean	419
+Antigua	558
+Mamora Bay	3187
+World	1
+Caribbean	419
+Antigua	558
+English Harbour	3238
+World	1
+Caribbean	419
+Aruba	562
+Oranjestad	2072
+World	1
+Caribbean	419
+Aruba	562
+Druif Beach	3098
+World	1
+Caribbean	419
+Bahamas	563
+Grand Bahama Island	1861
+Freeport	1862
+World	1
+Caribbean	419
+Bahamas	563
+Nassau	1901
+World	1
+Caribbean	419
+Bahamas	563
+Marsh Harbour	2534
+World	1
+Caribbean	419
+Bahamas	563
+Paradise Island	2546
+World	1
+Caribbean	419
+Bahamas	563
+Cat Island	3117
+World	1
+Caribbean	419
+Bahamas	563
+Harbour Island	3128
+World	1
+Caribbean	419
+Barbados	564
+St James	565
+World	1
+Caribbean	419
+Barbados	564
+St Peter	566
+World	1
+Caribbean	419
+Barbados	564
+Hastings	567
+World	1
+Caribbean	419
+Barbados	564
+St Lawrence	568
+St Lawrence Gap	2878
+World	1
+Caribbean	419
+Barbados	564
+Worthing	569
+World	1
+Caribbean	419
+Barbados	564
+St Philip	570
+World	1
+Caribbean	419
+Barbados	564
+Maxwell	571
+World	1
+Caribbean	419
+Barbados	564
+Speightstown	572
+World	1
+Caribbean	419
+Barbados	564
+Bridgetown	573
+World	1
+Caribbean	419
+Barbados	564
+Holetown	574
+World	1
+Caribbean	419
+Barbados	564
+Christchurch - Barbados	2789
+World	1
+Caribbean	419
+Barbados	564
+Palm Beach - Barbados	2790
+World	1
+Caribbean	419
+Barbados	564
+Silver Sands - Barbados	2791
+World	1
+Caribbean	419
+Bermuda	575
+World	1
+Caribbean	419
+Cayman Islands	576
+Grand Cayman	1887
+George Town	2332
+World	1
+Caribbean	419
+Cuba	577
+Varadero	581
+Jibacoa	3087
+World	1
+Caribbean	419
+Cuba	577
+Ciego de Avila	1696
+Cayo Coco	1697
+World	1
+Caribbean	419
+Cuba	577
+Ciego de Avila	1696
+Cayo Guillermo	2108
+World	1
+Caribbean	419
+Cuba	577
+Ciego de Avila	1696
+Cayo Santa Maria	2661
+World	1
+Caribbean	419
+Cuba	577
+Holguin	1893
+Playa Pesquero	2862
+World	1
+Caribbean	419
+Cuba	577
+Havana	2109
+World	1
+Caribbean	419
+Cuba	577
+Cayos	2152
+World	1
+Caribbean	419
+Cuba	577
+Guardalavaca	2719
+World	1
+Caribbean	419
+Dominican Republic	579
+Bahia Maimon	583
+World	1
+Caribbean	419
+Dominican Republic	579
+Cabarete	584
+World	1
+Caribbean	419
+Dominican Republic	579
+Playa Dorada	585
+World	1
+Caribbean	419
+Dominican Republic	579
+San Juan	586
+World	1
+Caribbean	419
+Dominican Republic	579
+Sosua	587
+World	1
+Caribbean	419
+Dominican Republic	579
+Bavaro	588
+World	1
+Caribbean	419
+Dominican Republic	579
+Boca Chica	589
+World	1
+Caribbean	419
+Dominican Republic	579
+Cofresi	590
+Cofresi Beach	2883
+World	1
+Caribbean	419
+Dominican Republic	579
+Juan Dolio	591
+World	1
+Caribbean	419
+Dominican Republic	579
+Puerto Plata	1673
+Bahia Principe	3072
+World	1
+Caribbean	419
+Dominican Republic	579
+Puerto Plata	1673
+Bahia Luperon	3073
+World	1
+Caribbean	419
+Dominican Republic	579
+Puerto Plata	1673
+Playa Cofresi	3076
+World	1
+Caribbean	419
+Dominican Republic	579
+Puerto Plata	1673
+Costa Dorada - Dom Rep	3194
+World	1
+Caribbean	419
+Dominican Republic	579
+La Romana	1694
+World	1
+Caribbean	419
+Dominican Republic	579
+Punta Cana	2433
+World	1
+Caribbean	419
+Dominican Republic	579
+Bayahibe	2591
+World	1
+Caribbean	419
+Dominican Republic	579
+Uvero Alto	2793
+World	1
+Caribbean	419
+Dominican Republic	579
+Samana	3024
+Samana Bay	3025
+World	1
+Caribbean	419
+Dominican Republic	579
+Santo Domingo	3120
+World	1
+Caribbean	419
+Grenada	593
+St Georges-Grenada	592
+World	1
+Caribbean	419
+Grenada	593
+Carriacou	2673
+World	1
+Caribbean	419
+Jamaica	594
+Montego Bay	595
+World	1
+Caribbean	419
+Jamaica	594
+Negril	596
+World	1
+Caribbean	419
+Jamaica	594
+Ocho Rios	597
+World	1
+Caribbean	419
+Jamaica	594
+Runaway Bay-Jamaica	598
+World	1
+Caribbean	419
+Jamaica	594
+Kingston	1239
+World	1
+Caribbean	419
+Jamaica	594
+Falmouth - Jamaica	2792
+World	1
+Caribbean	419
+Margarita	599
+World	1
+Caribbean	419
+Martinique	600
+Fort De France	2327
+World	1
+Caribbean	419
+Nevis	601
+World	1
+Caribbean	419
+St Kitts	602
+Frigate Bay	604
+World	1
+Caribbean	419
+St Lucia	603
+Cap Estate	605
+World	1
+Caribbean	419
+St Lucia	603
+Castries	606
+World	1
+Caribbean	419
+St Lucia	603
+Choc Bay	607
+World	1
+Caribbean	419
+Turks and Caicos Islands	610
+Salt Cay	613
+World	1
+Caribbean	419
+Turks and Caicos Islands	610
+Cockburn Town	614
+World	1
+Caribbean	419
+US Virgin Islands	611
+St Thomas	1238
+World	1
+Caribbean	419
+Port Of Spain	1708
+World	1
+Caribbean	419
+British Virgin Islands	1728
+Beef Island	1730
+World	1
+Caribbean	419
+Antilles	1797
+World	1
+Caribbean	419
+Trinidad and Tobago	1944
+Trinidad	1945
+World	1
+Caribbean	419
+Trinidad and Tobago	1944
+Tobago	1946
+Great Courland Bay	3310
+World	1
+Caribbean	419
+Trinidad and Tobago	1944
+Tobago	1946
+Crown Point	3311
+World	1
+Caribbean	419
+Trinidad and Tobago	1944
+Tobago	1946
+Bacolet Bay	3312
+World	1
+Caribbean	419
+Trinidad and Tobago	1944
+Tobago	1946
+Scarborough	3233
+World	1
+Caribbean	419
+Guadeloupe	2104
+World	1
+Caribbean	419
+Dominica	2105
+World	1
+Caribbean	419
+St Maarten	2174
+World	1
+Caribbean	419
+Haiti	2205
+World	1
+Caribbean	419
+Netherlands Antilles	2210
+Sint Maarten	2288
+Philipsburg	2294
+World	1
+Caribbean	419
+Netherlands Antilles	2210
+Saba	2289
+World	1
+Caribbean	419
+Netherlands Antilles	2210
+Sint Eustatius	2290
+World	1
+Caribbean	419
+Netherlands Antilles	2210
+Curacao	2291
+Westpunt	2295
+World	1
+Caribbean	419
+Netherlands Antilles	2210
+Curacao	2291
+Willemstad	2296
+World	1
+Caribbean	419
+Netherlands Antilles	2210
+Bonaire	2292
+Kralendijk	2297
+World	1
+Caribbean	419
+Netherlands Antilles	2210
+Klein Curacao	2293
+World	1
+Caribbean	419
+Saint Vincent &amp; the Grenadines	2229
+St Vincent and Grenadines	2230
+Canouan	3115
+World	1
+Caribbean	419
+Saint Vincent &amp; the Grenadines	2229
+Mustique	2231
+World	1
+Caribbean	419
+Saint Vincent &amp; the Grenadines	2229
+Bequia	2232
+World	1
+Caribbean	419
+Saint Vincent &amp; the Grenadines	2229
+Mayreau	2233
+World	1
+Caribbean	419
+Puerto Rico - Caribbean	2681
+World	1
+Far East	446
+India	616
+Goa	617
+Anjuna	618
+World	1
+Far East	446
+India	616
+Goa	617
+Baga	620
+World	1
+Far East	446
+India	616
+Goa	617
+Betalbatim	621
+World	1
+Far East	446
+India	616
+Goa	617
+Bogmalo	622
+Bogmalo Beach	2901
+World	1
+Far East	446
+India	616
+Goa	617
+Calangute	623
+Calangute Beach	2873
+World	1
+Far East	446
+India	616
+Goa	617
+Candolim	624
+Candolim Beach	2872
+World	1
+Far East	446
+India	616
+Goa	617
+Cavelossim	625
+Cavelossim Beach	2876
+World	1
+Far East	446
+India	616
+Goa	617
+Mapusa	626
+World	1
+Far East	446
+India	616
+Goa	617
+Margao	627
+World	1
+Far East	446
+India	616
+Goa	617
+Mobor	628
+Mobor Beach	2920
+World	1
+Far East	446
+India	616
+Goa	617
+Panajim	629
+World	1
+Far East	446
+India	616
+Goa	617
+Vainguinim	630
+Vainguinim Beach	2908
+World	1
+Far East	446
+India	616
+Goa	617
+Varca	631
+World	1
+Far East	446
+India	616
+Goa	617
+Arpora	2886
+World	1
+Far East	446
+India	616
+Goa	617
+Panjim	2897
+World	1
+Far East	446
+India	616
+Goa	617
+Arossim	2898
+World	1
+Far East	446
+India	616
+Goa	617
+Utorda	2919
+Utorda Beach	2921
+World	1
+Far East	446
+India	616
+Goa	617
+Benaulim Beach	3079
+World	1
+Far East	446
+India	616
+Goa	617
+Sinquerim	3080
+World	1
+Far East	446
+India	616
+Goa	617
+Tamborim	3081
+World	1
+Far East	446
+India	616
+Goa	617
+Cansaulim	3082
+World	1
+Far East	446
+India	616
+Goa	617
+Dona Paula	3083
+World	1
+Far East	446
+India	616
+Goa	617
+Majorda	3084
+World	1
+Far East	446
+India	616
+Goa	617
+Colva Beach	3228
+World	1
+Far East	446
+India	616
+Goa	617
+South Goa	3376
+World	1
+Far East	446
+India	616
+North India	734
+Agra	3327
+World	1
+Far East	446
+India	616
+North India	734
+Bandhavgarh	3330
+World	1
+Far East	446
+India	616
+North India	734
+Bikaner	3331
+World	1
+Far East	446
+India	616
+North India	734
+Chandigarh	3333
+World	1
+Far East	446
+India	616
+North India	734
+Dalhousie	3334
+World	1
+Far East	446
+India	616
+North India	734
+Darjeeling	3335
+World	1
+Far East	446
+India	616
+North India	734
+Dharamshala	3336
+World	1
+Far East	446
+India	616
+North India	734
+Gurgaon	3337
+World	1
+Far East	446
+India	616
+North India	734
+Haridwar	3338
+World	1
+Far East	446
+India	616
+North India	734
+Jaipur	3339
+World	1
+Far East	446
+India	616
+North India	734
+Jaisalmer	3340
+World	1
+Far East	446
+India	616
+North India	734
+Jodhpur	3341
+World	1
+Far East	446
+India	616
+North India	734
+Manali	3347
+World	1
+Far East	446
+India	616
+North India	734
+Ranthambore	3353
+World	1
+Far East	446
+India	616
+North India	734
+Rishikesh	3354
+World	1
+Far East	446
+India	616
+North India	734
+Shimla	3355
+World	1
+Far East	446
+India	616
+North India	734
+Varanasi	3359
+World	1
+Far East	446
+India	616
+North India	734
+Delhi	737
+World	1
+Far East	446
+India	616
+North India	734
+Amritsar	1741
+World	1
+Far East	446
+India	616
+Western India	735
+Ahmedabad	3328
+World	1
+Far East	446
+India	616
+Western India	735
+Aurangabad	3329
+World	1
+Far East	446
+India	616
+Western India	735
+Pune	3352
+World	1
+Far East	446
+India	616
+Western India	735
+Shirdi	3356
+World	1
+Far East	446
+India	616
+Western India	735
+Udaipur	3358
+World	1
+Far East	446
+India	616
+Western India	735
+Mumbai	739
+World	1
+Far East	446
+India	616
+Eastern India	736
+Kolkata	3343
+World	1
+Far East	446
+India	616
+Eastern India	736
+Calcutta	738
+World	1
+Far East	446
+India	616
+Kerala	1135
+Calicut	3332
+World	1
+Far East	446
+India	616
+Kerala	1135
+Kumarakom	3344
+World	1
+Far East	446
+India	616
+Kerala	1135
+Mararikulam	3348
+World	1
+Far East	446
+India	616
+Kerala	1135
+Munnar	3349
+World	1
+Far East	446
+India	616
+Kerala	1135
+Thekkady	3357
+World	1
+Far East	446
+India	616
+Kerala	1135
+Varkala	3360
+World	1
+Far East	446
+India	616
+Kerala	1135
+Cochin	1705
+World	1
+Far East	446
+India	616
+Kerala	1135
+Trivandrum	1791
+Marari	3085
+World	1
+Far East	446
+India	616
+Kerala	1135
+Trivandrum	1791
+Poovar	3086
+World	1
+Far East	446
+India	616
+Kerala	1135
+Kovalam	2112
+World	1
+Far East	446
+India	616
+Southern India	1667
+Madurai	3345
+World	1
+Far East	446
+India	616
+Southern India	1667
+Mysore	3350
+World	1
+Far East	446
+India	616
+Southern India	1667
+Madras	1668
+World	1
+Far East	446
+India	616
+Southern India	1667
+Hyderabad	1722
+World	1
+Far East	446
+India	616
+Southern India	1667
+Bangalore	1727
+World	1
+Far East	446
+India	616
+Tamil Nadu	2260
+Kodaikanal	3342
+World	1
+Far East	446
+India	616
+Tamil Nadu	2260
+Mahabalipuram	3346
+World	1
+Far East	446
+India	616
+Tamil Nadu	2260
+Ooty	3351
+World	1
+Far East	446
+India	616
+Tamil Nadu	2260
+Chennai	2261
+World	1
+Far East	446
+India	616
+Gorakhpur	2926
+World	1
+Far East	446
+Maldives	632
+Angaga	633
+World	1
+Far East	446
+Maldives	632
+Ari Beach	634
+World	1
+Far East	446
+Maldives	632
+Athuruga	635
+World	1
+Far East	446
+Maldives	632
+Bandos	636
+World	1
+Far East	446
+Maldives	632
+Baros	637
+World	1
+Far East	446
+Maldives	632
+Full Moon	638
+World	1
+Far East	446
+Maldives	632
+Kanifinolhu	639
+World	1
+Far East	446
+Maldives	632
+Kuredu	640
+World	1
+Far East	446
+Maldives	632
+Kurumba	641
+World	1
+Far East	446
+Maldives	632
+Velassaru	642
+World	1
+Far East	446
+Maldives	632
+Male	643
+World	1
+Far East	446
+Maldives	632
+Nakatchafushi	644
+World	1
+Far East	446
+Maldives	632
+Rangali	645
+World	1
+Far East	446
+Maldives	632
+Reethi Rah	646
+World	1
+Far East	446
+Maldives	632
+Soneva Fushi	647
+World	1
+Far East	446
+Maldives	632
+Thudufushi	648
+World	1
+Far East	446
+Maldives	632
+Villivaru	649
+World	1
+Far East	446
+Maldives	632
+Baa Atoll	2745
+World	1
+Far East	446
+Maldives	632
+Raa Atoll	2746
+World	1
+Far East	446
+Maldives	632
+North Male Atoll	2749
+World	1
+Far East	446
+Maldives	632
+Lhaviyani	2879
+World	1
+Far East	446
+Maldives	632
+Ari Atoll	2892
+North Ari Atoll	2894
+World	1
+Far East	446
+Maldives	632
+Ari Atoll	2892
+South Ari Atoll	2895
+World	1
+Far East	446
+Maldives	632
+South Male Atoll	2922
+World	1
+Far East	446
+Maldives	632
+Meedhupparu	3065
+World	1
+Far East	446
+Maldives	632
+Meemu Atoll	3067
+World	1
+Far East	446
+Maldives	632
+Nilandhe Atoll	3068
+World	1
+Far East	446
+Maldives	632
+Meeru Atoll	3069
+World	1
+Far East	446
+Maldives	632
+North Nilandhe Atoll	3070
+World	1
+Far East	446
+Maldives	632
+Dhonveli Island	3071
+World	1
+Far East	446
+Sri Lanka	650
+Ahungalla	651
+World	1
+Far East	446
+Sri Lanka	650
+Beruwela	652
+World	1
+Far East	446
+Sri Lanka	650
+Kalutara	653
+World	1
+Far East	446
+Sri Lanka	650
+Negombo	654
+World	1
+Far East	446
+Sri Lanka	650
+Wadduwa	655
+World	1
+Far East	446
+Sri Lanka	650
+Waikkal	656
+World	1
+Far East	446
+Sri Lanka	650
+Colombo	1655
+World	1
+Far East	446
+Sri Lanka	650
+Bentota	2899
+World	1
+Far East	446
+Sri Lanka	650
+Galle	2954
+World	1
+Far East	446
+Nepal	657
+Kathmandu	658
+World	1
+Far East	446
+Myanmar	659
+Yangon	2512
+World	1
+Far East	446
+Thailand	661
+Phuket	662
+Bang Thao Bay	663
+World	1
+Far East	446
+Thailand	661
+Phuket	662
+Karon Beach	664
+World	1
+Far East	446
+Thailand	661
+Phuket	662
+Kata Beach	665
+World	1
+Far East	446
+Thailand	661
+Phuket	662
+Nai Harn Beach	666
+World	1
+Far East	446
+Thailand	661
+Phuket	662
+Patong Beach	667
+World	1
+Far East	446
+Thailand	661
+Phuket	662
+Relax Bay	668
+World	1
+Far East	446
+Thailand	661
+Koh Samui	669
+Chaweng	670
+World	1
+Far East	446
+Thailand	661
+Koh Samui	669
+Choeng Mon	671
+World	1
+Far East	446
+Thailand	661
+Koh Samui	669
+Chaweng Noi	672
+World	1
+Far East	446
+Thailand	661
+Koh Samui	669
+Mae Nam	673
+World	1
+Far East	446
+Thailand	661
+Phi Phi Island	674
+World	1
+Far East	446
+Thailand	661
+Koh Maiton	675
+World	1
+Far East	446
+Thailand	661
+Pattaya	676
+World	1
+Far East	446
+Thailand	661
+Krabi	677
+World	1
+Far East	446
+Thailand	661
+Hua Hin	678
+World	1
+Far East	446
+Thailand	661
+Cha-Am	679
+World	1
+Far East	446
+Thailand	661
+Chiang Mai	680
+World	1
+Far East	446
+Thailand	661
+Bangkok	681
+World	1
+Far East	446
+Thailand	661
+Chiang Rai	2259
+World	1
+Far East	446
+Thailand	661
+Koh Chang	2871
+World	1
+Far East	446
+Thailand	661
+Phang Nga	2933
+Khao Lak	2934
+World	1
+Far East	446
+Thailand	661
+Trang	2965
+World	1
+Far East	446
+Hong Kong	682
+World	1
+Far East	446
+Indonesia	683
+Bali	684
+Sanur Beach	685
+World	1
+Far East	446
+Indonesia	683
+Bali	684
+Nusa Dua	686
+World	1
+Far East	446
+Indonesia	683
+Bali	684
+Jimbaran Bay	687
+World	1
+Far East	446
+Indonesia	683
+Bali	684
+Ubud	688
+World	1
+Far East	446
+Indonesia	683
+Bali	684
+Lombok	689
+World	1
+Far East	446
+Indonesia	683
+Bali	684
+Denpasar	1657
+World	1
+Far East	446
+Indonesia	683
+Jakarta	690
+World	1
+Far East	446
+Indonesia	683
+Balikpapan	2302
+World	1
+Far East	446
+Indonesia	683
+North Sulawesi	2434
+Manado	2435
+World	1
+Far East	446
+Indonesia	683
+North Sumatra	2436
+Medan	2437
+World	1
+Far East	446
+Indonesia	683
+West Sumatra	2442
+Padang	2443
+World	1
+Far East	446
+Indonesia	683
+South Sumatra	2444
+Palembang	2445
+World	1
+Far East	446
+Indonesia	683
+Java	2449
+Surabaya	2450
+World	1
+Far East	446
+Indonesia	683
+Bintan	2682
+World	1
+Far East	446
+Malaysia	691
+Kuala Lumpur	692
+World	1
+Far East	446
+Malaysia	691
+Penang	693
+Georgetown-Penang	694
+World	1
+Far East	446
+Malaysia	691
+Penang	693
+Batu Ferringhi	695
+World	1
+Far East	446
+Malaysia	691
+Langkawi	696
+World	1
+Far East	446
+Malaysia	691
+Borneo	697
+Kota Kinabalu	698
+World	1
+Far East	446
+Malaysia	691
+Pangkor	699
+World	1
+Far East	446
+Malaysia	691
+Kuantan	700
+World	1
+Far East	446
+Malaysia	691
+Tioman	701
+World	1
+Far East	446
+Malaysia	691
+Redang	702
+World	1
+Far East	446
+Malaysia	691
+Perak	2383
+Ipoh	2384
+World	1
+Far East	446
+Malaysia	691
+Johor	2391
+Johor Bahru	2392
+World	1
+Far East	446
+Malaysia	691
+Kelantan	2422
+Kota Bharu	2423
+World	1
+Far East	446
+Malaysia	691
+Sarawak	2424
+Kuching	2425
+World	1
+Far East	446
+Singapore	703
+Sentosa	704
+World	1
+Far East	446
+Vietnam	705
+Hanoi	706
+World	1
+Far East	446
+Vietnam	705
+Saigon	707
+World	1
+Far East	446
+Vietnam	705
+Ho Chi Minh	1656
+World	1
+Far East	446
+Vietnam	705
+Nha Trang	3017
+World	1
+Far East	446
+China	708
+Beijing	709
+World	1
+Far East	446
+China	708
+Shanghai	710
+World	1
+Far East	446
+China	708
+Xian	711
+World	1
+Far East	446
+China	708
+Chengdu	2262
+World	1
+Far East	446
+China	708
+Guangzhou	2355
+World	1
+Far East	446
+China	708
+Guilin	2356
+World	1
+Far East	446
+China	708
+Hangzhou	2357
+World	1
+Far East	446
+China	708
+Kunming	2427
+World	1
+Far East	446
+China	708
+Nanjing	2441
+World	1
+Far East	446
+China	708
+Shenyang	2448
+World	1
+Far East	446
+China	708
+Xiamen	2453
+World	1
+Far East	446
+China	708
+Xianyang	2454
+World	1
+Far East	446
+China	708
+Hainan Province	2944
+Sanya	2974
+World	1
+Far East	446
+China	708
+Macau	3118
+World	1
+Far East	446
+Japan	712
+Tokyo	713
+World	1
+Far East	446
+Japan	712
+Osaka	714
+World	1
+Far East	446
+Japan	712
+Nagoya	1787
+World	1
+Far East	446
+Japan	712
+Fukuoka	1807
+World	1
+Far East	446
+Japan	712
+Sapporo	2094
+World	1
+Far East	446
+Japan	712
+Kumamoto	2426
+World	1
+Far East	446
+Bangladesh	1498
+Dhaka	1499
+World	1
+Far East	446
+Pakistan	1501
+Lahore	1502
+World	1
+Far East	446
+Pakistan	1501
+Karachi	1600
+World	1
+Far East	446
+Pakistan	1501
+Islamabad	1602
+World	1
+Far East	446
+Pakistan	1501
+Peshawar	1935
+World	1
+Far East	446
+Philippines	1626
+Manila	1627
+World	1
+Far East	446
+Philippines	1626
+Cebu Island	1703
+World	1
+Far East	446
+Philippines	1626
+Cebu	1704
+World	1
+Far East	446
+Philippines	1626
+Davao	2250
+World	1
+Far East	446
+South Korea	1665
+Seoul	1666
+World	1
+Far East	446
+Taiwan	1670
+Taipei	1788
+World	1
+Far East	446
+Taiwan	1670
+Kaohsiung	2399
+World	1
+Far East	446
+Uzbekistan	1712
+Tashkent	2168
+World	1
+Far East	446
+Yemen	1714
+San'a	1715
+World	1
+Far East	446
+Yemen	1714
+Aden	1740
+World	1
+Far East	446
+Brunei	1725
+Bandar Seri Begawan	1726
+World	1
+Far East	446
+Papua New Guinea	1957
+Saidor	1958
+World	1
+Far East	446
+Papua New Guinea	1957
+Madang	1959
+World	1
+Far East	446
+Kazakhstan	2169
+Almaty	2170
+World	1
+Far East	446
+Cambodia	2199
+Phnom Penh	2345
+World	1
+Far East	446
+Laos	2208
+Vientiane	2452
+World	1
+Far East	446
+Kyrgyzstan	2315
+Bishkek	2316
+World	1
+Far East	446
+India &amp; Indian Ocean	3026
+World	1
+Far East	446
+Indian Ocean	3043
+World	1
+Australasia	717
+Australia	715
+Adelaide	716
+World	1
+Australasia	717
+Australia	715
+Alice Springs	718
+World	1
+Australasia	717
+Australia	715
+Brisbane	719
+World	1
+Australasia	717
+Australia	715
+Cairns	720
+World	1
+Australasia	717
+Australia	715
+Darwin	721
+World	1
+Australasia	717
+Australia	715
+Gold Coast	722
+World	1
+Australasia	717
+Australia	715
+Melbourne	723
+World	1
+Australasia	717
+Australia	715
+Perth	724
+World	1
+Australasia	717
+Australia	715
+Sydney	725
+World	1
+Australasia	717
+Australia	715
+Hobart	726
+World	1
+Australasia	717
+Australia	715
+Canberra	2628
+World	1
+Australasia	717
+Australia	715
+Port Douglas	2957
+World	1
+Australasia	717
+Australia	715
+New South Wales	3145
+World	1
+Australasia	717
+New Zealand	727
+Auckland	728
+World	1
+Australasia	717
+New Zealand	727
+Christchurch	729
+World	1
+Australasia	717
+New Zealand	727
+Dunedin	730
+World	1
+Australasia	717
+New Zealand	727
+Wellington	731
+World	1
+Australasia	717
+Fiji	732
+Viti Levu	2439
+Nadi	2440
+World	1
+Australasia	717
+Cook Islands	2200
+Rarotonga	2447
+World	1
+Australasia	717
+French Polynesia	2202
+Tahiti	2461
+Papeete	2462
+World	1
+Australasia	717
+French Polynesia	2202
+Huahine	3129
+World	1
+Australasia	717
+French Polynesia	2202
+Marquesas Islands	3137
+World	1
+Australasia	717
+French Polynesia	2202
+Moorea	3144
+World	1
+Australasia	717
+French Polynesia	2202
+Raiatea	3176
+World	1
+Australasia	717
+French Polynesia	2202
+Tuamotu Archipalego	3177
+World	1
+Australasia	717
+Samoa	2277
+Upolu	3161
+Apia	3163
+World	1
+Australasia	717
+Samoa	2277
+Savai'i	3162
+World	1
+Central America	1109
+Mexico	420
+Western Mexico	421
+Puerto Vallarta	548
+World	1
+Central America	1109
+Mexico	420
+Western Mexico	421
+Nuevo Vallarta	549
+World	1
+Central America	1109
+Mexico	420
+Western Mexico	421
+Bucerias	550
+World	1
+Central America	1109
+Mexico	420
+Western Mexico	421
+Acapulco	551
+World	1
+Central America	1109
+Mexico	420
+Western Mexico	421
+Ixtapa-Zihuatanejo	2389
+World	1
+Central America	1109
+Mexico	420
+Western Mexico	421
+Punta de Mita	2460
+World	1
+Central America	1109
+Mexico	420
+Central Mexico	422
+Mexico City	552
+World	1
+Central America	1109
+Mexico	420
+Central Mexico	422
+Guadalajara	2354
+World	1
+Central America	1109
+Mexico	420
+Central Mexico	422
+Guanajuato	2519
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Playa Maroma	3313
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Playa Paraiso	3314
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Cancun	553
+Playa Mujeres	3371
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Cancun	553
+Port Aventura	3077
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Cozumel	554
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Playacar	555
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Puerto Aventuras	556
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Playa del Carmen	1950
+Mayan Riviera	2156
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Tulum	2165
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Merida	2536
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Puerto Morelos	2915
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Xcaret	3058
+World	1
+Central America	1109
+Mexico	420
+Eastern Mexico	423
+Akumal	3059
+World	1
+Central America	1109
+Mexico	420
+Northern Mexico	2538
+Monterrey	2539
+World	1
+Central America	1109
+Mexico	420
+Riviera Maya	2751
+Riviera Maya Norte	2832
+World	1
+Central America	1109
+Mexico	420
+Riviera Maya	2751
+Riviera Maya Sur	2833
+World	1
+Central America	1109
+Mexico	420
+Huatulco	3031
+World	1
+Central America	1109
+Panama	1706
+Panama City-Central America	1707
+World	1
+Central America	1109
+Belize	1735
+San Pedro	2107
+World	1
+Central America	1109
+Belize	1735
+Belize City	2307
+World	1
+Central America	1109
+El Salvador	1806
+World	1
+Central America	1109
+Guatemala	1808
+Guatemala City	1809
+World	1
+Central America	1109
+Costa Rica	1858
+San Jose-Costa Rica	1859
+World	1
+Central America	1109
+Honduras	2206
+World	1
+Central America	1109
+Nicaragua	2221
+Managua	2532
+World	1
+South America	1162
+Brazil	1163
+Salvador	1742
+World	1
+South America	1162
+Brazil	1163
+Amazonas	1864
+Belem	2306
+World	1
+South America	1162
+Brazil	1163
+Amazonas	1864
+Manaus	2533
+World	1
+South America	1162
+Brazil	1163
+Bahia	1865
+Costa Do Sauipe	1881
+World	1
+South America	1162
+Brazil	1163
+Bahia	1865
+Ilheus	2378
+World	1
+South America	1162
+Brazil	1163
+Bahia	1865
+Itapua	2955
+World	1
+South America	1162
+Brazil	1163
+Bahia	1865
+Praia Do Forte	2956
+World	1
+South America	1162
+Brazil	1163
+Ceara	1866
+Fortaleza	2328
+World	1
+South America	1162
+Brazil	1163
+Espirito Santo	1867
+World	1
+South America	1162
+Brazil	1163
+Fernando de Noronha	1868
+World	1
+South America	1162
+Brazil	1163
+Maranhao	1869
+World	1
+South America	1162
+Brazil	1163
+Mato Grosso	1870
+Cuiaba	2252
+World	1
+South America	1162
+Brazil	1163
+Mato Grosso do Sul	1871
+Campo Grande	2267
+World	1
+South America	1162
+Brazil	1163
+Minas Gerais	1872
+Belo Horizonte	2308
+World	1
+South America	1162
+Brazil	1163
+Parana	1873
+Curitiba	2251
+World	1
+South America	1162
+Brazil	1163
+Parana	1873
+Londrina	2524
+World	1
+South America	1162
+Brazil	1163
+Paraiba	1874
+Joao Pessoa	2390
+World	1
+South America	1162
+Brazil	1163
+Pernambuco	1875
+Recife	2280
+World	1
+South America	1162
+Brazil	1163
+Rio de Janeiro	1876
+World	1
+South America	1162
+Brazil	1163
+Rio Grande do Norte	1877
+Natal-Brazil	2543
+World	1
+South America	1162
+Brazil	1163
+Rio Grande do Sul	1878
+World	1
+South America	1162
+Brazil	1163
+Sao Paulo	1880
+Sao Paulo City	1885
+World	1
+South America	1162
+Brazil	1163
+Sergipe	2281
+Aracaju	2282
+World	1
+South America	1162
+Brazil	1163
+Distrito Federal	2284
+Brasilia	2285
+World	1
+South America	1162
+Brazil	1163
+Santa Catarina-Brazil	2325
+Florianopolis	2326
+World	1
+South America	1162
+Brazil	1163
+Santa Catarina-Brazil	2325
+Joinville	2395
+World	1
+South America	1162
+Brazil	1163
+Goias	2333
+Goiania	2334
+World	1
+South America	1162
+Brazil	1163
+Alagoas	2528
+Maceio	2529
+World	1
+South America	1162
+Argentina	1165
+Buenos Aires	1678
+World	1
+South America	1162
+Argentina	1165
+Mendoza	2535
+World	1
+South America	1162
+Chile	1166
+Santiago	1716
+World	1
+South America	1162
+Venezuela	1458
+Caracas	1471
+World	1
+South America	1162
+Venezuela	1458
+Margarita Island	1781
+Porlamar	1782
+World	1
+South America	1162
+Peru	1628
+Lima	1629
+World	1
+South America	1162
+Colombia	1698
+Bogota	1699
+World	1
+South America	1162
+Colombia	1698
+Cali	1764
+World	1
+South America	1162
+Ecuador	1709
+Quito	1710
+World	1
+South America	1162
+Ecuador	1709
+Guayaquil	2515
+World	1
+South America	1162
+Uruguay	1785
+Montevideo	1786
+World	1
+South America	1162
+Bolivia	2101
+La Paz	2102
+World	1
+South America	1162
+Guyana	2204
+Georgetown-Guyana	2514
+World	1
+South America	1162
+Paraguay	2222
+Asuncion	2223
+World	1
+South America	1162
+Suriname	2337
+Paramaribo	2338
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Ajman	3408
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Dubai	1175
+Dubai City	3409
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Dubai	1175
+Dubai Creek	3410
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Dubai	1175
+Dubai Marina/The Walk	3411
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Dubai	1175
+Dubai Downtown	3412
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Dubai	1175
+Dubai Beach	3413
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Dubai	1175
+Dubai Jebal Ali	3414
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Dubai	1175
+Dubai Old Town	3415
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Abu Dhabi	1494
+Al Ain	3109
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Fujairah	3126
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Ras al-Khaimah	3182
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Sharjah	3183
+World	1
+Middle East	1172
+United Arab Emirates	1173
+Umm Al-Quwain	3184
+World	1
+Middle East	1172
+Jordan	1489
+Amman	1677
+World	1
+Middle East	1172
+Jordan	1489
+Aqaba	1773
+World	1
+Middle East	1172
+Oman	1495
+Muscat	1497
+World	1
+Middle East	1172
+Bahrain	1503
+Manama	3035
+World	1

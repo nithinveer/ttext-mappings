@@ -1,0 +1,277 @@
+{www.teletextholidays.co.uk:web.test.fail[Search&LandingPage200IE10].last(5)}<>0
+
+For IE 10, if the search and landing page wasn't accessible for the last 5 minutes then create this error.
+
+================================
+8TXQ2-RNPY8-2M3KG-WRMFR-3DBKY
+
+WNBH4-777KP-K439W-WJK67-CYT3M
+
+================================
+
+B29N4-BKW48-HWVF7-TFVKK-8QKY2
+
+==============================
+xmlhoco
+@57947*
+
+=============
+
+192.168.88.162
+
+hcompany
+OMt5R8XGvz3B
+
+MySQL
+ratesimport
+1mp0rtRates
+
+182.72.147.2
+
+9901177300 is also required for 
+
+
+Hy6ewPmU
+
+95.211.42.216
+
+so the connection should be made using the public IP address 162.13.63.162
+
+================================================================
+https://anypoint.mulesoft.com/login/#/signin?apintent=generic
+ 
+Username: Teletext123
+Password: TeletextSatya1
+=================================================================
+https://www.facebook.com/ayanthi.rajakaruna
+https://www.facebook.com/sumaya.choco
+
+
+
+220.227.245.194
+182.72.147.2
+
+===================================================================
+
+
+HOLIDAYS 				DATE 		DAY
+================================================
+SANKRANTI (PONGAL) 		15/01/2016 	FRIDAY		
+REPUBLIC DAY 			26/01/2016 	TUESDAY
+MAHA SHIVARATRI 		07/03/2016 	MONDAY
+GOOD FRIDAY 			25/03/2016 	FRIDAY
+UGADI 					08/04/2016 	FRIDAY
+TELANGANA FORMATION DAY 02/06/2016 	THURSDAY
+RAMZAN (ID-UL-FITR) 	06/07/2016 	WEDNESDAY
+INDEPENDENCE DAY 		15/08/2016 	MONDAY
+VINAYAKA CHAVITHI 		05/09/2016 	MONDAY
+VIJAYA DASHAMI (DASARA) 11/10/2016 	TUESDAY
+===============================================
+
+Data Source=79.125.112.237;User ID=ttxt-631;Password=Hy6ewPmU;
+<add name="Holidays" connectionString="server=db2x.prd.tt.artirix.com; database=hoddata; user=InteractiveUser; password=1nteract1ve;" providerName="System.Data.SqlClient" />
+
+<add key="CMSConnString" value="user id=ttxt-631;password=Hy6ewPmU;Data Source=79.125.112.237;Database=dev_cms; Connection Timeout=300" />
+
+\\PCDSW449\Images
+
+
+hcrates   3V7dgFvsmL
+
+url : ftp.hotelcompany.co
+
+164.177.142.119 contenthub.hotelcompany.co
+134.213.235.205 ftp.hotelcompany.co
+
+===================================================
+
+HOC 99
+ABC 99
+MGR 44
+BWE 29
+LCB 19
+LCH 19
+YOU 16
+HBD 14
+HOT 10
+H4U 10
+ALT 8
+JBO 7
+OTS 5
+====================================================
+
+medhotels
+alturadestinationservices
+arabian_adventures
+avratours
+bonotel
+ec_travel
+hotelbeds
+jumbo
+lowcostbeds
+magicrooms
+mikitravel
+nti
+serhs
+side_tours
+sunhotels
+tourico
+welcomebeds
+youtravel
+
+
+=====================================================
+
+GIATA creds
+Username: grahamf|teletext.co.uk
+Passwd: Y3HRGq5t
+
+
+http://multicodes.giatamedia.com/webservice/rest/1.0/properties/country/ES
+http://multicodes.giatamedia.com/webservice/rest/1.0/properties/2271
+
+=============================================================================
+http://mediatravel.manage.text.ttss.net/TN_Supplier.php?tnid=192
+scott
+truly@t3l3t3xtindia
+
+==================================================================
+
+79.125.112.237  for cms
+ttxt-631
+Hy6ewPmU
+
+176.34.191.54   for hod
+
+ZEtUp6aw for HOD Prod
+
+===================
+
+Kakali G
++91-9051053609
+
+==============
+
+D:\DynamoDb\dynamodb_local_2016-05-17>java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
+
+Tele!Text983
+
+======================
+
+teletext-prd
+
+deployprod
+
+Welc0me@12
+
+===============================================
+
+http://mediatravel.manage.text.ttss.net/
+
+User Name : teletexttech
+Password: truly@tech
+
+===============================================
+
+42, 19, 26, 18, 2, 30 to not be included
+
+===============================================
+
+http://hub.prd.tt.artirix.com/v1/search?item_type=description&filter.tour_code=BWE&filter.sid=AMTSES0F80
+
+==========================================================================================================
+
+http://manage.text.ttss.net/reports/TeletextNoContentExport.csv.zip
+
+=====================================================================
+
+Na!lp9tq8aw3
+
+================
+
+Z2935664
+
+============================================
+
+Alpha Rooms S3 Bucket
+
+Access key ID
+--------------------
+AKIAJK2VA42DOWD5ORJA
+
+Secret access key
+------------------
+gSydBclMbC6wmFmLDnq9fy329Pg7/If1pR+pKVaD
+
+=============================================
+
+Remote IP: 52.208.80.159 
+User Name: abhisheikdeo
+Password: H8XQmVmrG5Fy3kEX
+
+============================
+TextDays@11
+===========
+
+SQL Server
+
+Teletext Account
+SQL Server
+Public IP : 46.137.86.123
+User : devuser
+Pwd : RbBrY99kCfs9CQhvh;CjiBHs*;FC@X(X
+
+SQL User
+staticdata --> 7z4yeg6Tt
+
+Database Name : StaticData
+
+===========================================
+
+AlphaRooms SVN
+
+U: abhisheikd
+P: RhJRGEMgmJHxgx98
+
+====================
+
+VPN URL: https://52.49.17.26/
+
+User:    abhishek
+PW   :   A13I$KHb
+
+================================
+
+User : teletextdeploy
+Pwd : Z1ngH0RRbest
+User : Administrator
+Pwd : B(B(o*SPxj
+
+========================
+
+SupplierCode	GdsId
+HOT	10
+NULL	NULL
+YOU	16
+COS	NULL
+ALT	8
+ABC	35
+ABC	55
+HBD	14
+OTS	5
+BWE	29
+JBO	7
+ABC	42
+ABC	99
+
+UPDATE TeletextNoContentExport_02_22_2017
+SET GdsId =
+			CASE
+				WHEN SupplierCode = 'HOT' THEN 10
+				WHEN SupplierCode = 'YOU' THEN 16
+				WHEN SupplierCode = 'ALT' THEN 8
+			END
+
+SELECT
+	*
+FROM dbo.TeletextNoContentExport_02_22_2017 AS tnce

@@ -1,0 +1,279 @@
+{
+   "supplierlogs": {
+      "mappings": {
+         "External": {
+            "properties": {
+               "buyingCurrency": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "buyingexchangerate": {
+                  "type": "float"
+               },
+               "dBTime": {
+                  "type": "long"
+               },
+               "discount": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "discountcode": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "exchnageValueMap": {
+                  "type": "object"
+               },
+               "gdsId": {
+                  "type": "long"
+               },
+               "hotelMarkup": {
+                  "type": "float"
+               },
+               "hotelName": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "isNonrefundable": {
+                  "type": "float"
+               },
+               "markuppercentage": {
+                  "type": "float"
+               },
+               "masterboardbasiscode": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "masterboardbasisid": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "masterhotelId": {
+                  "type": "long"
+               },
+               "priceBandIds": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "r1buying": {
+                  "type": "float"
+               },
+               "r1code": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "r1name": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "r1selling": {
+                  "type": "float"
+               },
+               "r2buying": {
+                  "type": "float"
+               },
+               "r2code": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "r2name": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "r2selling": {
+                  "type": "float"
+               },
+               "r3buying": {
+                  "type": "float"
+               },
+               "r3code": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "r3name": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "r3selling": {
+                  "type": "float"
+               },
+               "resortCode": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "resortName": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "searchRef": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "searchlogId": {
+                  "type": "long"
+               },
+               "sellingcurrency": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "sellingexchrate": {
+                  "type": "float"
+               },
+               "starRating": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "starRatingLevel": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "suppBoardbasiscode": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "suppBoardbasisname": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "supplierHotelCode": {
+                  "type": "text",
+                  "fields": {
+                     "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                     }
+                  }
+               },
+               "totalBuying": {
+                  "type": "float"
+               },
+               "totalSelling": {
+                  "type": "float"
+               }
+            }
+         },
+         "external": {
+            "properties": {
+               "query": {
+                  "properties": {
+                     "searchlogid": {
+                        "type": "text",
+                        "fields": {
+                           "keyword": {
+                              "type": "keyword",
+                              "ignore_above": 256
+                           }
+                        }
+                     }
+                  }
+               }
+            }
+         }
+      }
+   }
+}
